@@ -9,3 +9,8 @@
   url: /tutorials
   excerpt: Try it out in different languages
   image:
+
+- title: About
+  url: /about/
+  excerpt: "About this standards initiative"
+  image: 400x250.gif
