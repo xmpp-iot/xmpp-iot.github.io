@@ -1,6 +1,6 @@
 ---
 layout: article
-title:  "Read a value from a node"
+title:  "Read a value from a device"
 categories: basics
 modified: 2014-11-04T02:02:02
 tags: [basics]
@@ -14,10 +14,10 @@ The first you would like to do in an Internet of Things environment is to read v
 
 ##Read all fields available
 
-Readout of all momentary fields from a Thing 
+Readout of all momentary fields from a Thing (device) 
 
 **Request to another peer**
-{% highlight XML %}
+{% highlight dtd %}
 <iq type='get'
        from='client@clayster.com/amr'
        to='device@clayster.com'
@@ -27,7 +27,7 @@ Readout of all momentary fields from a Thing
 {% endhighlight %}
 
 **The respons confirming the readout**
-{% highlight XML %}
+{% highlight dtd %}
 <iq type='result'
        from='device@clayster.com'
        to='client@clayster.com/amr'
@@ -37,7 +37,7 @@ Readout of all momentary fields from a Thing
 {% endhighlight %}
 
 **next respons with the data contained**
-{% highlight XML %}
+{% highlight dtd %}
  <message from='device@clayster.com'
             to='client@clayster.com/amr'>
       <fields xmlns='urn:xmpp:iot:sensordata' seqnr='1' done='true'>
