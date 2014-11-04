@@ -2,7 +2,10 @@
 Layout: article
 title:  "Read a value from a node"
 categories: basics
-modified: 2014-11-04
+modified: 2014-11-04T02:02:02
+tags: [basics]
+toc: true
+comments: false
 share: false
 ads: false
 ---
