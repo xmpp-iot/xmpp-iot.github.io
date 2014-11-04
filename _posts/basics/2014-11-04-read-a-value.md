@@ -29,11 +29,11 @@ Readout of all momentary fields from a Thing (device)
 **The respons confirming the readout**
 {% highlight xml %}
 <iq type='result'
-       from='device@clayster.com'
-       to='client@clayster.com/amr'
-       id='S0001'>
-      <accepted xmlns='urn:xmpp:iot:sensordata' seqnr='1'/>
-   </iq>
+from='device@clayster.com'
+to='client@clayster.com/amr'
+id='S0001'>
+<accepted xmlns='urn:xmpp:iot:sensordata' seqnr='1'/>
+</iq>
 {% endhighlight %}
 
 **next respons with the data contained**
