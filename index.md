@@ -18,7 +18,7 @@ image:
   <h2 class="post-title">Truly open, no dialects</h2>
   <p class="post-excerpt">XMPP is the only open community based IoT
   standard. no proprietary groups or memberships everything is on the
-  [XSF foundation site ][http://XMPP.org/extensions]. No other
+  [XSF foundation site ](http://XMPP.org/extensions). No other
   organisation will change the standard</p>
 </div><!-- /.tile -->
 
