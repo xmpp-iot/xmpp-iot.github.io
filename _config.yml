@@ -2,8 +2,8 @@
 
 title: XMPP-IoT
 description: "How XMPP can solve the IoT puzzle"
-logo: # 120x120 px default image used for Twitter summary card
-teaser: # 400x250 px default teaser image used in image archive grid
+logo: 120x120.gif # 120x120 px default image used for Twitter summary card
+teaser: 400x250.gif # 400x250 px default teaser image used in image archive grid
 locale:
 url: //xmpp-iot.github.io
 
