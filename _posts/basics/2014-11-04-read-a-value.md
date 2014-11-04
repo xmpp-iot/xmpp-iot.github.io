@@ -17,7 +17,7 @@ The first you would like to do in an Internet of Things environment is to read v
 Readout of all momentary fields from a Thing (device) 
 
 **Request to another peer**
-{% highlight dtd %}
+{% highlight xml %}
 <iq type='get'
        from='client@clayster.com/amr'
        to='device@clayster.com'
@@ -27,7 +27,7 @@ Readout of all momentary fields from a Thing (device)
 {% endhighlight %}
 
 **The respons confirming the readout**
-{% highlight dtd %}
+{% highlight xml %}
 <iq type='result'
        from='device@clayster.com'
        to='client@clayster.com/amr'
@@ -37,7 +37,7 @@ Readout of all momentary fields from a Thing (device)
 {% endhighlight %}
 
 **next respons with the data contained**
-{% highlight dtd %}
+{% highlight xml %}
  <message from='device@clayster.com'
             to='client@clayster.com/amr'>
       <fields xmlns='urn:xmpp:iot:sensordata' seqnr='1' done='true'>
