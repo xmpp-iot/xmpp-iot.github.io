@@ -19,36 +19,36 @@ Readout of all momentary fields from a Thing (device)
 **Request to another peer**
 {% highlight xml %}
 <iq type='get'
-       from='client@clayster.com/amr'
-       to='device@clayster.com'
-       id='S0001'>
-      <req xmlns='urn:xmpp:iot:sensordata' seqnr='1' momentary='true'/>
-   </iq>
+    from='client@clayster.com/amr'
+    to='device@clayster.com'
+    id='S0001'>
+    <req xmlns='urn:xmpp:iot:sensordata' seqnr='1' momentary='true'/>
+</iq>
 {% endhighlight %}
 
 **The respons confirming the readout**
 {% highlight xml %}
 <iq type='result'
-from='device@clayster.com'
-to='client@clayster.com/amr'
-id='S0001'>
-<accepted xmlns='urn:xmpp:iot:sensordata' seqnr='1'/>
+	from='device@clayster.com'
+	to='client@clayster.com/amr'
+	id='S0001'>
+	<accepted xmlns='urn:xmpp:iot:sensordata' seqnr='1'/>
 </iq>
 {% endhighlight %}
 
 **next respons with the data contained**
 {% highlight xml %}
- <message from='device@clayster.com'
-            to='client@clayster.com/amr'>
-      <fields xmlns='urn:xmpp:iot:sensordata' seqnr='1' done='true'>
-         <node nodeId='Device01'>
+<message from='device@clayster.com'
+    to='client@clayster.com/amr'>
+    <fields xmlns='urn:xmpp:iot:sensordata' seqnr='1' done='true'>
+	    <node nodeId='Device01'>
             <timestamp value='2013-03-07T16:24:30'>
-               <numeric name='Temperature' momentary='true' automaticReadout='true' value='23.4' unit='°C'/>
-			   <numeric name='load level' momentary='true' automaticReadout='true' value='75' unit='%'/> 
+                <numeric name='Temperature' momentary='true' automaticReadout='true' value='23.4' unit='°C'/>
+			    <numeric name='load level' momentary='true' automaticReadout='true' value='75' unit='%'/> 
             </timestamp>
-         </node>
-      </fields>
-   </message>
+        </node>
+    </fields>
+</message>
 {% endhighlight %}
 
 *Observe the "done='true'" above meaning that this was a single respons
