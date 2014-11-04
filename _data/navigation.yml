@@ -4,3 +4,8 @@
   url: /basics
   excerpt: Describe the basics for using XMPP for IoT
   image:
+
+- title: Tutorials
+  url: /tutorials
+  excerpt: Try it out in different languages
+  image:
