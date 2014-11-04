@@ -11,14 +11,14 @@ image:
   <h2 class="post-title">10 years proven technology</h2>
   <p class="post-excerpt">Takes the advantage of more than 10 years of
   profound scalability and interoperability. There are massive amounts
-  of servers and millions of users across the planet</p>
+  of servers and millions of users across the planet. </p>
 </div><!-- /.tile -->
 
 <div class="tile">
   <h2 class="post-title">Truly open, no dialects</h2>
   <p class="post-excerpt">XMPP is the only open community based IoT
   standard. no proprietary groups or memberships everything is on the
-  [XSF foundation site ](http://XMPP.org/extensions). No other
+  <a href="http://XMPP.org/extensions" >XSF foundation site</a>. No other
   organisation will change the standard</p>
 </div><!-- /.tile -->
 
