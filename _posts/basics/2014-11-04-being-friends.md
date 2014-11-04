@@ -1,5 +1,5 @@
 ---
-Layout: article
+layout: article
 title:  "Friendship between peers"
 categories: basics
 modified: 2014-11-04T01:01:01

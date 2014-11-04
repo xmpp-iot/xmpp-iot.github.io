@@ -1,5 +1,5 @@
 ---
-Layout: article
+layout: article
 title:  "Read a value from a node"
 categories: basics
 modified: 2014-11-04T02:02:02
