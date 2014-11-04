@@ -1,6 +1,6 @@
 # Site navigation links
 
-- title:
-  url:
-  excerpt:
+- title: Basics
+  url: /basics
+  excerpt: Describe the basics for using XMPP for IoT
   image:
