@@ -12,7 +12,7 @@ share: false
 ads: false
 ---
 
-This is a github based open site connected to the [XMPP](http://xmpp.org/)  <a href="https://github.com/xmpp-iot/xmpp-iot.github.io" class="btn-inverse">View on GitHub</a>
+This is a github based open site connected to the [XMPP](http://xmpp.org/)  <a href="https://github.com/xmpp-iot/xmpp-iot.github.io" class="btn">View on GitHub</a>
 
 This is maintained by [Joachim Lindborg](http://lsys.se/)  member of the  [XMPP Extensions Foundation](http://xmpp.org/about-xmpp/xsf/xsf-member-list/)
 
