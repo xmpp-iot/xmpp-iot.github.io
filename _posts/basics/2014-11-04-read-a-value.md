@@ -64,7 +64,7 @@ Of course you can readout a specific field within a specific node inside the dev
 For every request the device should ask it's parent the trusted party if the request is allowed the trusted party can reject the request and the device can cache that information for later use.
 
 
-`Node:` A Thing can model it's content in several "nodes" for example a heatpump can model it's content as the nodes *Pump*, *WaterHeater*, *Compressor* which all can have several fields. 
+`Parent:` A parent is an optional peer being the device Best friend or trusted party and is responsible for providing the device with the access priviliges for different peers.
 {: .notice-inverse}
 `Node:` A Thing can model it's content in several "nodes" for example a heatpump can model it's content as the nodes *Pump*, *WaterHeater*, *Compressor* which all can have several fields. 
 {: .notice-inverse}
