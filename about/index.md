@@ -2,7 +2,8 @@
 layout: article
 title: "About"
 date: 2014-11-04T09:44:20-04:00
-modified: 
+modified:
+categories: about
 excerpt: "XMPP-IoT a open solution to internet of things."
 image:
   feature:
