@@ -1,7 +1,6 @@
 ---
 layout: home
 permalink: /
-title: "Home"
 mage:
   feature: wood-texture-1600x800.jpg
 ---
