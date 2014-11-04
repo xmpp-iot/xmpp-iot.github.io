@@ -34,12 +34,13 @@ The usage of friendship is very good if you are a human talking our own descisio
 Using this way of endpoint security creates andless possibilities with changing the ownership of devcices during first commissioning[^commission] It even supports the usecase of thirdparty delivering unnamed Things that you can buy and the transfer them to be your own property
 
 
-*JID (jabber id)
-Every account in the XMPP network have an identity that looks like an email adress it is a uniqe identifier in the domain this is called the Jabber ID
+**JID (jabber id):** `.notice-inverse` Every account in the XMPP network have an identity that looks like an email adress it is a uniqe identifier in the domain this is called the Jabber ID or **JID**. 
+{: .notice-inverse}
 
-*Resource_id
-For every login to a server a client does it will recive an **Resource_id** this is used to distinguish between for example you being logged in through your ipad, phone, computer etc.
-When working with devices it is seldom a device has several resource_id's
+**Resource_id:** `.notice-inverse` For every login to a server a client does it will recive an **Resource_id** this is used to distinguish between for example you being logged in through your ipad, phone, computer etc.
+When working with devices it is seldom a device has several resource_id's. 
+{: .notice-inverse}
+
 
 [pidgin-ex]: http://im.about.com/od/imfornewusers/ss/pidgin-account-adding-contacts.htm
 
