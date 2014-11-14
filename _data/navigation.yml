@@ -14,3 +14,8 @@
   url: /about/
   excerpt: "About this standards initiative"
   image: 400x250.gif
+
+- title: Backers
+  url: /backers/
+  excerpt: "The backers of XMPP-IoT"
+  image: 400x250.gif
