@@ -10,20 +10,32 @@ comments: false
 ads: false
 ---
 
-The most basic concept of using XMPP or for plain chat. Is the notion of being friends. To exchange data between two endpoints they need to be friends 
+The most basic concept of using XMPP is the notion of being
+friends. To exchange data between two endpoints they need to be
+friends. The friendship is in reality to peers subscribing to one and
+eachothers precense[^precense] updates.
+
+[^precense] Your state being *online*, *offline*, *available* etc 
 
 ##Friend request
 
-The friending process starts with one end point asking another for a "subscription" [Pidgin example][pidgin-ex]
+The friending process starts with one end point asking another for a
+"precense subscription" [Pidgin example][pidgin-ex]
 The two enpoints can be in any domains **my-thing@my-domain.com/resource_id** makes a friend request to **your-thing@your-domain.com/**
 
 ##Confirm request
 
-The enpoint confirms the request and sends a friend request back to the originating peer
+The enpoint confirms the request and sends a "precense subscription" back to the originating peer
 
 ##Dual subscription
 
-The two enpoints now have a dual subscription in talking to each other so they can now send read and write 
+The two enpoints now have a dual subscription in talking to each other
+so they can now send read and write. The information is stored on the
+servers in the peer's rosters[^roster]
+
+[^roster] The storage of all your friends when you login and start a
+new session the first thing you recieve is your roster, containing the
+state of al your friend relations.
 
 ##Having a Parent, Adding security
 
