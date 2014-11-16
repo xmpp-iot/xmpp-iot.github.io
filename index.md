@@ -8,11 +8,12 @@ image:
 <div class="tiles">
 
 <div class="tile">
-  <h2 class="post-title">>10 years scalability, security tests</h2>
+  <h2 class="post-title">>10 years scalability and security</h2>
   <p class="post-excerpt">Takes the advantage of more than 10 years of
   profound scalability and security tests. There are massive amounts
   of servers and millions of users across the planet. That has run
-  XMPP over several years</p>
+  XMPP over many years. As from spring 2014 no public servers may run
+  un encrypted</p>
 </div><!-- /.tile -->
 
 <div class="tile">
