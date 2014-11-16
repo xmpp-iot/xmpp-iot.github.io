@@ -2,8 +2,8 @@
 layout: article
 title:  "Javascript tutorial Read and Write"
 categories: tutorials
-modified: 2014-11-04T01:01:01
-tags: [sample,tutorials,javascript]
+modified: 2014-11-16T01:01:01
+tags: [tutorials]
 toc: true
 share: true
 comments: true
