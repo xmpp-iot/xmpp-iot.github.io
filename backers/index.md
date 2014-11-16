@@ -20,14 +20,14 @@ Please sign that you would like to support this effort as individual, company or
 
 logo| Name | Description
  -------------| ------------- | ----------- 
-logo | Help | Display the help window.
-logo | Close | Closes a window
+![Sust logo](http://www.sust.se/wp-content/uploads/2014/06/header-logo.png) | [Sustainable Innovation](http://sust.se) |Sustainable innovation has driven a large Swedish project creating an XMPP IoT infrastructure. Called [Intelligent Energy Services](http://iea.sust.se)
+your logo | Close | Closes a window
 
 # Individuals
 
 Name | Description
  ------------- | ----------- 
- Joachim Lindborg | XMPP IoT entusiast doing this and much more really like the intiative
+ [Joachim Lindborg](https://se.linkedin.com/in/joachimlindborg/) | XMPP IoT entusiast doing this and much more really like the intiative
 
 
 
