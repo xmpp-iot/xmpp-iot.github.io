@@ -14,7 +14,7 @@ ads: false
 ---
 
 Please sign that you would like to support this effort as individual, company or whatever. Fork on github add your backing and make a pullrequest
- <a href="https://github.com/xmpp-iot/xmpp-iot.github.io/blob/master/backers/index.md" class="btn">View on GitHub</a>
+ <a href="https://github.com/xmpp-iot/xmpp-iot.github.io/blob/master/backers/index.md" class="btn">Show your engagement here through Github</a>
 
 # Organisations:
 
@@ -30,6 +30,7 @@ Logo| Name | Description
 Name | Description
  ------------- | ----------- 
  [Joachim Lindborg](https://se.linkedin.com/in/joachimlindborg/) | XMPP IoT entusiast doing this and much more really like the intiative. Working in the standards process through the XSF
+
 
 
 This is maintained by [Joachim Lindborg](http://lsys.se/)  member of the  [XMPP Extensions Foundation](http://xmpp.org/about-xmpp/xsf/xsf-member-list/)
