@@ -25,8 +25,6 @@ Logo| Name | Description
 ![sensei logo](http://www.sensei-iot.org/images/Sensei-IOT-XMPP.jpg) | [ISO/IEC/IEEE P21451-1-4 XMPP INFC WG](http://http://www.sensei-iot.org/) | The IEEE intitaive tying the XMPP-IoT initiative into the IEEE standards structure
 
 
-your logo | your org | Description
-
 # Individuals
 
 Name | Description
