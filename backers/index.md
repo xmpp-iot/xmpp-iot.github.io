@@ -17,16 +17,18 @@ Please sign that you would like to support this effort as individual, company or
  <a href="https://github.com/xmpp-iot/xmpp-iot.github.io/blob/master/backers/index.md" class="btn">View on GitHub</a>
 
 # Organisations:
-logo| Name | Description          
+
+logo| Name | Description
  -------------| ------------- | ----------- 
-logo| Help      | Display the help window.
-logo| Close     | Closes a window     
+logo | Help | Display the help window.
+logo | Close | Closes a window
 
 # Individuals
- Name | Description          
+
+Name | Description
  ------------- | ----------- 
- Joachim Lindborg      |XMPP IoT entusiast doing this and much more really like the intiative
- Close     | Closes a window     
+ Joachim Lindborg | XMPP IoT entusiast doing this and much more really like the intiative
+
 
 
 First Header | Second Header
