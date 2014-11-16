@@ -17,7 +17,7 @@ Please sign that you would like to support this effort as individual, company or
  <a href="https://github.com/xmpp-iot/xmpp-iot.github.io/blob/master/backers/index.md" class="btn">View on GitHub</a>
 
 # Organisations:
- Name | Description          |
+ Name | Description          |-|
  -------------| ------------- | ----------- |
 logo| Help      | Display the help window.|
 logo| Close     | Closes a window     |
@@ -27,5 +27,11 @@ logo| Close     | Closes a window     |
  ------------- | ----------- |
  Joachim Lindborg      |XMPP IoT entusiast doing this and much more really like the intiative|
  Close     | Closes a window     |
+
+
+First Header | Second Header
+------------ | -------------
+Content from cell 1 | Content from cell 2
+Content in the first column | Content in the second column
 
 This is maintained by [Joachim Lindborg](http://lsys.se/)  member of the  [XMPP Extensions Foundation](http://xmpp.org/about-xmpp/xsf/xsf-member-list/)
