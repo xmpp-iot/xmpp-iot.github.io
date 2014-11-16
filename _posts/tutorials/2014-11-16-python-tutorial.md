@@ -3,7 +3,7 @@ layout: article
 title:  "Python tutorial Read and Write"
 categories: tutorials
 modified: 2014-11-04T01:01:01
-tags: [sample,tutorial,python]
+tags: [sample,tutorials,python]
 toc: true
 share: true
 comments: true

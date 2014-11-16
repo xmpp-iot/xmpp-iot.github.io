@@ -3,7 +3,7 @@ layout: article
 title:  "Javascript tutorial Read and Write"
 categories: tutorials
 modified: 2014-11-04T01:01:01
-tags: [sample,tutorial,javascript]
+tags: [sample,tutorials,javascript]
 toc: true
 share: true
 comments: true
