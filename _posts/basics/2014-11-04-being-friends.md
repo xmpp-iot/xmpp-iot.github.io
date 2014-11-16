@@ -15,7 +15,7 @@ friends. To exchange data between two endpoints they need to be
 friends. The friendship is in reality to peers subscribing to one and
 eachothers precense[^precense] updates.
 
-[^precense] Your state being *online*, *offline*, *available* etc 
+[^precense]: Your state being *online*, *offline*, *available* etc 
 
 ##Friend request
 
@@ -33,7 +33,7 @@ The two enpoints now have a dual subscription in talking to each other
 so they can now send read and write. The information is stored on the
 servers in the peer's rosters[^roster]
 
-[^roster] The storage of all your friends when you login and start a
+[^roster]: The storage of all your friends when you login and start a
 new session the first thing you recieve is your roster, containing the
 state of al your friend relations.
 
