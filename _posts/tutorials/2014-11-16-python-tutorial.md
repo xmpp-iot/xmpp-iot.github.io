@@ -1,7 +1,7 @@
 ---
 layout: article
 title:  "Python tutorial Read and Write"
-categories: basics
+categories: tutorials
 modified: 2014-11-04T01:01:01
 tags: [sample,tutorial,python]
 toc: true

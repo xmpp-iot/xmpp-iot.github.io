@@ -1,7 +1,7 @@
 ---
 layout: article
 title:  "Javascript tutorial Read and Write"
-categories: basics
+categories: tutorials
 modified: 2014-11-04T01:01:01
 tags: [sample,tutorial,javascript]
 toc: true
