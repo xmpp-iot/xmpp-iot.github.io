@@ -22,7 +22,7 @@ By signing this page. We as an individual or organisation truly believe in this.
 - Internet of Things standardisation in an open process is good
 - Collaboration between companies should use encryption
 - Sessions from clients to servers should likewise use good encryption
-- Authentication and authorisation of access should be used and enforced on different levels
+- Authentication and authorisation of access should be used and enforced
 
 ## Organisations:
 

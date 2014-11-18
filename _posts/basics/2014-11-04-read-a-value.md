@@ -2,7 +2,7 @@
 layout: article
 title:  "Readout from a device"
 categories: basics
-modified: 2014-11-04T02:02:02
+date: 2014-11-04T02:02:02
 tags: [basics]
 toc: true
 comments: false
