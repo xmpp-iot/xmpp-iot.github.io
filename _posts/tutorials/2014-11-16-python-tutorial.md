@@ -5,17 +5,18 @@ categories: tutorials
 modified: 2014-11-04T01:01:01
 tags: [tutorials]
 toc: true
-share: true
-comments: true
+share: false
+comments: false
 ads: false
 image:
 	feature: 400x250.gif
 --
 
 
-
 This tutorial is very simple it just starts up a device and then uses another script to control it.
 # Preparations
+you need an environment that can run python scripts. 
+
 ## Two JID's
 first setup two accounts on your favourite XMPP site for example jabber.se
 
@@ -23,13 +24,15 @@ first setup two accounts on your favourite XMPP site for example jabber.se
 
 Clone the code from github
 
-# Reading a value from a device
+{% highlight bash session %}
+Joachims-MacBook-Pro:IoT joachimlindborg$ git clone -b xep_0323_325 https://github.com/joachimlindborg/SleekXMPP.git 
+{% endhighlight %}
+
+
 ## start the server device
 
 {% highlight bash session %}
 Joachims-MacBook-Pro:IoT joachimlindborg$ python IoT_TestDevice.py -j yourthing@jabber.se -p passwd -n test 
-WARNING  DNS: dnspython not found. Can not use SRV lookup.
-ERROR    Could not connect to [2001:6b0:17:f0a0::98]:5222. Socket Error #65: No route to host
 INFO     Negotiating TLS
 INFO     Using SSL version: 3
 WARNING  Could not find pyasn1 and pyasn1_modules. SSL certificate COULD NOT BE VERIFIED.
@@ -61,7 +64,9 @@ DEBUG    momentary updated{'Counter': {'flags': {'momentary': 'true', 'automatic
 
 {% endhighlight %}
 
-## start the client device
+
+# Reading a value from a device
+We now start a script that continiously reads values from the first.
 
 # Writing a value to a device
 keep the two scripts above running ans start a third one changing values in the sever device. 

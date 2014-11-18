@@ -17,7 +17,7 @@ image:
 </div><!-- /.tile -->
 
 <div class="tile">
-  <h2 class="post-title">Truly open, no dialects</h2>
+  <h2 class="post-title">Truly open in all aspects</h2>
   <p class="post-excerpt">XMPP is the only open community based IoT
   standard. no proprietary groups or memberships everything is on the
   <a href="http://XMPP.org/extensions" >XSF foundation site</a>. No other
@@ -32,10 +32,10 @@ image:
 </div><!-- /.tile -->
 
 <div class="tile">
-  <h2 class="post-title">Federation between domains</h2>
+  <h2 class="post-title">Federation between businesses</h2>
   <p class="post-excerpt">No other standard gives you the possibility
   to share your systems and businessmodels with others without creating yet another REST
-  api. Only hook up certificates and your business can talk to others
+  api. Only hook up certificates and your business domain can talk to others
   anywhere on the planet</p>
 </div><!-- /.tile -->
 
