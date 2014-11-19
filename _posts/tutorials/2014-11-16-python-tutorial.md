@@ -5,12 +5,12 @@ categories: tutorials
 modified: 2014-11-04T01:01:01
 tags: [howto]
 toc: true
+image:
+	feature: 400x250.gif 
 share: false
 comments: false
 ads: false
-image:
-	feature: 400x250.gif
---
+---
 
 
 This tutorial is very simple it just starts up a device and then uses another script to control it.

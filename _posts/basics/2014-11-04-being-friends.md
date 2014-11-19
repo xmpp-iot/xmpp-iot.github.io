@@ -2,15 +2,14 @@
 layout: article
 title:  "Friendship between peers"
 categories: basics
-date: 2014-11-04T06:06:06
 modified: 2014-11-04T06:06:06
 tags: [sample]
+image:
+	feature: 400x250.gif 
 toc: true
 share: false
 comments: false
 ads: false
-image:
-	feature: 400x250.gif
 ---
 
 The most basic concept of using XMPP is the notion of being

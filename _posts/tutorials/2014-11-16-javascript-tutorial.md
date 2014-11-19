@@ -5,12 +5,12 @@ categories: tutorials
 modified: 2014-11-16T01:01:01
 tags: []
 toc: true
-share: true
-comments: true
-ads: false
 image:
 	feature: 400x250.gif
---
+share: false
+comments: false
+ads: false
+---
 
 This tutorial shows how to make a web client that can read and write values to XMPP-IoT devices it is based on the Strophe.js package and node.js
 

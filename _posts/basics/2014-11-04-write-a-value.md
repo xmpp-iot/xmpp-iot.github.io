@@ -5,9 +5,9 @@ categories: basics
 date: 2014-11-04T02:02:02
 modified: 2014-11-04T02:02:02
 tags: [basics]
-toc: true
 image:
-	feature: 400x250.gif
+	feature: 400x250.gif 
+toc: true
 comments: false
 share: false
 ads: false
