@@ -10,7 +10,7 @@ toc: true
 comments: false
 share: false
 ads: false
----
+-
 
 The first you would like to do in an Internet of Things environment is to read values from your Thing. The device can of course have several available values here we show a simple readout getting all available values that you as a peer has access to. More details on the read process is in the [xmpp specification](http://xmpp.org/extensions/xep-0323.html)
 

@@ -10,7 +10,7 @@ toc: true
 share: false
 comments: false
 ads: false
----
+-
 
 The most basic concept of using XMPP is the notion of being
 friends. To exchange data between two endpoints they need to be

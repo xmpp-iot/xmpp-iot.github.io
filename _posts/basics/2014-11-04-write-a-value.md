@@ -10,7 +10,7 @@ toc: true
 comments: false
 share: false
 ads: false
----
+-
 
 The next you would like to do in an Internet of Things environment is
 to write values to your Thing. The device can of course have several
