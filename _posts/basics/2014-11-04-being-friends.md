@@ -1,16 +1,14 @@
 ---
 layout: article
-title:  "Friendship between peers"
+title: "Friendship between peers"
 categories: basics
-modified: 2014-11-04T06:06:06
+modified: 2014-08-27T11:57:41-04:00
 tags: [sample]
-image:
-	feature: 400x250.gif 
-toc: true
-share: false
+toc: false
 comments: false
 ads: false
---
+---
+
 
 The most basic concept of using XMPP is the notion of being
 friends. To exchange data between two endpoints they need to be
