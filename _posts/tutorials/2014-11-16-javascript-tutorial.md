@@ -1,6 +1,6 @@
 ---
 layout: article
-title:  "Javascript tutorial Read and Write"
+title:  "Javascript Read and Write"
 categories: tutorials
 modified: 2014-11-16T01:01:01
 tags: []
