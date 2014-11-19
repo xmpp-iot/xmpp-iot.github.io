@@ -4,8 +4,6 @@ title:  "Read from a device"
 categories: basics
 modified: 2014-11-04T05:05:05
 tags: [basics]
-image:
-	teaser: 400x250.gif
 toc: true
 comments: false
 share: false
