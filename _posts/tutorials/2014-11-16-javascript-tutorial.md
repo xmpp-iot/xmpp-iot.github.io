@@ -6,7 +6,7 @@ modified: 2014-11-16T01:01:01
 tags: []
 toc: true
 image:
- feature: 400x250.gif
+ teaser: js-logo.jpg
 share: false
 comments: false
 ads: false
