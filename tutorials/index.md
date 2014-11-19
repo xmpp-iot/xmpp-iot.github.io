@@ -3,8 +3,7 @@ layout: archive
 title: "Tutorials"
 date: 2014-11-04T04:04:04-04:00
 modified:
-excerpt: "Tutorials is the best way to get you going quickly we will
-add different languages as they come available"
+excerpt: "Tutorials is the best way to get you going quickly. Help us improve this through github"
 tags: []
 image:
   feature:

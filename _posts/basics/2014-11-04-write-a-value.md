@@ -8,6 +8,8 @@ toc: true
 comments: false
 share: false
 ads: false
+image:
+	feature: 400x250.gif
 ---
 
 The next you would like to do in an Internet of Things environment is
