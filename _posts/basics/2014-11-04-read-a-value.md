@@ -1,8 +1,8 @@
 ---
 layout: article
-title:  "Readout from a device"
+title:  "Read from a device"
 categories: basics
-date: 2014-11-04T02:02:02
+modified: 2014-11-04T05:05:05
 tags: [basics]
 toc: true
 comments: false

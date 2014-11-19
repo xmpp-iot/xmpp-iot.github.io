@@ -2,7 +2,7 @@
 layout: article
 title:  "Friendship between peers"
 categories: basics
-date: 2014-11-04T06:06:06
+modified: 2014-11-04T06:06:06
 tags: [sample]
 toc: true
 share: false

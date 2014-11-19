@@ -1,8 +1,8 @@
 ---
 layout: article
-title:  "Write av value to a device"
+title:  "Write a value to a device"
 categories: basics
-date: 2014-11-04T02:02:02
+modified: 2014-11-04T02:02:02
 tags: [basics]
 toc: true
 comments: false
