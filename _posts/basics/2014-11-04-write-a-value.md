@@ -5,11 +5,11 @@ categories: basics
 modified: 2014-11-04T02:02:02
 tags: [basics]
 toc: true
+image:
+	feature: 400x250.gif
 comments: false
 share: false
 ads: false
-image:
-	feature: 400x250.gif
 ---
 
 The next you would like to do in an Internet of Things environment is
