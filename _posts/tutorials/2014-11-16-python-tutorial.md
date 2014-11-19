@@ -6,11 +6,11 @@ modified: 2014-11-04T01:01:01
 tags: [howto]
 toc: true
 image:
-	feature: 400x250.gif 
+ teaser: python-logo@2x.png 
 share: false
 comments: false
 ads: false
--
+---
 
 
 This tutorial is very simple it just starts up a device and then uses another script to control it.
