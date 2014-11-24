@@ -10,7 +10,7 @@ ads: false
 ---
 
 
-The most basic concept of using XMPP is the notion of being
+The most basic concept of using XMPP is the notion of 
 friends. To exchange data between two endpoints they need to be
 friends. The friendship is in reality to peers subscribing to one and
 eachothers precense[^precense] updates.
@@ -21,11 +21,14 @@ eachothers precense[^precense] updates.
 
 The friending process starts with one end point asking another for a
 "precense subscription" [Pidgin example][pidgin-ex]
-The two enpoints can be in any domains **my-thing@my-domain.com/resource_id** makes a friend request to **your-thing@your-domain.com/**
+The two enpoints can be in any domains **my-thing@my-domain.com/resource_id** makes a request to **your-thing@your-domain.com/**
 
 ##Confirm request
 
-The enpoint confirms the request and sends a "precense subscription" back to the originating peer
+The enpoint confirms the request so now we have a single sided
+subscription *my-thing* will recieve precense updates from
+*your-thing*.  *your-thing* now sends a "precense subscription"
+back to *my-thing* which inturn confirms the request. 
 
 ##Dual subscription
 
@@ -39,13 +42,16 @@ state of al your friend relations.
 
 ##Having a Parent, Adding security
 
-The usage of friendship is very good if you are a human talking our own descisions. But if whe are a temp sensor we must talk to a trusted friend to ask for permissions.
+The usage of friendship is very good if you are a human that can take your own descisions. But if we are a temp sensor we must talk to a trusted friend to ask for permissions.
 
-> Every device can have a "best friend" or "parent" which is the trusted party that takes the descisions regarding the device possibilities to respond to friendship requests and access to specific fields.
+Every device can have a "best friend" or "parent" which is the trusted party that takes the descisions regarding the device possibilities to respond to friendship requests and access to specific fields.
 
-Using this way of endpoint security creates andless possibilities with changing the ownership of devcices during first commissioning[^commission] It even supports the usecase of thirdparty delivering unnamed Things that you can buy and the transfer them to be your own property
+Using this way of endpoint security creates endless possibilities with
+changing the ownership of devcices during first
+commissioning[^commission] It can even support the usecase of
+thirdparty delivering unnamed Things that you can buy in any store and then transfer them to be your own property
 
-[^commission] The process when a Thing recieves it first condiguration.
+[^commission] The process when a Thing recieves it first configuration.
 
 `JID (jabber id):` Every account in the XMPP network have an identity that looks like an email adress it is a uniqe identifier in the domain this is called the Jabber ID or **JID**. 
 {: .notice-inverse}

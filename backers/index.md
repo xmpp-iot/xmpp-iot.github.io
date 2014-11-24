@@ -14,15 +14,16 @@ ads: false
 ---
 
 Please add yourself if you would like to support this effort as individual, company or whatever. Fork on github add your backing and make a pullrequest
- <a href="https://github.com/xmpp-iot/xmpp-iot.github.io/blob/master/backers/index.md" class="btn">Show your engagement here through Github</a>
+ <a href="https://github.com/xmpp-iot/xmpp-iot.github.io/blob/master/backers/index.md" class="btn">Show your engagement through Github</a>
 
 # Manifest
-By signing this page. We as an individual or organisation truly believe in this.
+By signing this page. We as an individual or organisation truly believe that.
 
 - Internet of Things standardisation in an open process is good
 - Collaboration between companies should use encryption
 - Sessions from clients to servers should likewise use good encryption
 - Authentication and authorisation of access should be used and enforced
+- Collaboration between companies is easy with xmpp federation
 
 ## Organisations:
 
