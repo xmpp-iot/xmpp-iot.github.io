@@ -13,6 +13,8 @@ The basics lets you know how to connect devices read and write values and get a 
 Here you can do tutorials in several programming languages please help out and test them and give feedback on what to improve
 
 
-The site is based on "Skinny Bones" Jekyll template thanks to:
-[Made Mistakes](http://mademistakes.com) 
-[Skinny Bones demo](http://mmistakes.github.io/skinny-bones-jekyll/) (*work in progress*).
+*The site is based on "Skinny Bones" Jekyll template thanks to:*
+
+*[Made Mistakes](http://mademistakes.com)*
+
+*[Skinny Bones demo](http://mmistakes.github.io/skinny-bones-jekyll/) (work in progress)*
