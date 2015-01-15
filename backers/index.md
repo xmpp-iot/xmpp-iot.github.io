@@ -17,13 +17,15 @@ Please add yourself if you would like to support this effort as individual, comp
  <a href="https://github.com/xmpp-iot/xmpp-iot.github.io/blob/master/backers/index.md" class="btn">Show your engagement through Github</a>
 
 # Manifest
-By signing this page. We as an individual or organisation truly believe that.
+By signing this page. We as an individual or organisation support:
 
-- Internet of Things standardisation in an open process is good
-- Collaboration between companies should use encryption
-- Sessions from clients to servers should likewise use good encryption
-- Authentication and authorisation of access should be used and enforced
-- Collaboration between companies is easy with xmpp federation
+- The open, interoperable and secure infrastructure made possible by the use of XMPP.
+- The open standardization process for Internet of Things over XMPP.
+- The globally scalable nature of federated XMPP networks to many billions of devices.
+- Encryption of communication at all levels, including end-to-end encryption, as provided by XMPP.
+- The possibility to provide globally unique identities to all devices using XMPP.
+- The use of authentication, authorization and provisioning of access to devices and their data.
+- Real-time communication with all types of devices at all times.
 
 ## Organisations:
 
