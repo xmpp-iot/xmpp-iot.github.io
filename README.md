@@ -1,16 +1,22 @@
-# Skinny Bones Jekyll Starter
+# XMPP-IoT site 
 
-Just a little something I'm using to jump start a site refresh. I like to think of it as a starter for building your own Jekyll site. I purposely keep the styling minimal and bare to make it easier to add your own flare and markup.
+This is a learning site to get to now the open source initiative around using XMPP for solving the interoperability and scaling of Internet of Things (IoT)
 
-I'm currently using a variation of it on my personal website [Made Mistakes](http://mademistakes.com) with some modifications. To learn more about how to use the theme and install it check out the [Skinny Bones demo](http://mmistakes.github.io/skinny-bones-jekyll/) (*work in progress*).
 
-![screenshot of Skinny Bones](http://mmistakes.github.io/skinny-bones-jekyll/images/skinny-bones-theme-feature.jpg)
 
----
+## [The basics](http://xmpp-iot.github.io/basics/)
 
-## Notable Features
+The basics lets you know how to connect devices read and write values and get a hang of how it is connected.
 
-* Stylesheet built using Sass. *Requires Jekyll 2.x*
-* Data files for easier customization of the site navigation/footer and for supporting multiple authors.
-* Optional Disqus comments, table of contents, social sharing links, and Google AdSense ads.
-* And more.
+## [Tutorials](http://xmpp-iot.github.io/tutorials/)
+
+Here you can do tutorials in several programming languages.
+
+# Helping out with the site
+
+Please help out with the site add issues and pull requests to get it all working nicely.
+
+take a look at [Skinny Bones demo](http://mmistakes.github.io/skinny-bones-jekyll/) for some examples on how to work with the theme
+
+
+*The site is based on "Skinny Bones" Jekyll template thanks to: [Made Mistakes](http://mademistakes.com)*
