@@ -30,11 +30,10 @@ By signing this page. We as an individual or organisation truly believe that.
 Logo| Name | Description
  -------------| ------------- | ----------- 
 ![logo](http://new.clayster.com/wordpress/wp-content/uploads/2014/05/clayster_vertical_gray_RGB-e1403601813494.png) | [Clayster](http://clayster.com) |Clayster is the main initiator and [Peter Waher](https://cl.linkedin.com/in/peterwaher) is the main author of the XMPP extensions. Clayster has launched [http://Thingk.me](http://Thingk.me) an XMPP server (Tigase) with IoT Provisioning. Thingk is open and free for developer who wants to connect their devices to a none proprietary “Device Cloud”. 
-![logo](http://www.sust.se/wp-content/uploads/2014/06/header-logo.png) | [Sustainable Innovation](http://sust.se) |  [Sustainable innovation created a large State funded Swedish project using an XMPP IoT infrastructure to bridge the business models to create Intelligent Energy Services regardless of the smarthome silos installed.](http://iea.sust.se) 
+![logo](http://www.sust.se/wp-content/uploads/2014/12/header-logo_en.png) | [Sustainable Innovation](http://sust.se) |  [Sustainable innovation created a large State funded Swedish project using an XMPP IoT infrastructure to bridge the business models to create Intelligent Energy Services regardless of the smarthome silos installed.](http://iea.sust.se) 
 ![logo](http://www.sensei-iot.org/images/Sensei-IOT-XMPP.jpg) | [ISO/IEC/IEEE P21451-1-4 XMPP INFC WG](http://www.sensei-iot.org) | The IEEE intitaive tying the XMPP-IoT initiative into the IEEE standards structure
 ![logo](http://www.ktc.se/wp-content/themes/2012-ktc/img/logo.png) | [KTC AB](http://ktc.se/en/) | Swedish company. We are using the XMPP to create an open infrastructure for builing control systems.
-![logo](http://www.ktc.se/wp-content/themes/2012-ktc/img/logo.png) | [KTC AB](http://ktc.se/en/) | Swedish company. We are using the XMPP to create an open infrastructure for builing control systems.
-![logo](http://www.ktc.se/wp-content/themes/2012-ktc/img/logo.png) | [Coversant](http://coversant.com/) | 
+![logo](http://coversant.com/img/logo.png) | [Coversant](http://coversant.com/) | Coversant, Inc.’s XMPP-IoT platform enables devices, applications and humans to be aware of each other and interact only when necessary, coming in and out of relationships as their profile matches events in real time
 
 
 ## Individuals
