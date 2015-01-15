@@ -1,6 +1,6 @@
 ---
 layout: article
-title:  "dot net tutorial"
+title:  ".NET (C#) tutorial"
 categories: tutorials
 modified: 2014-11-16T01:01:01
 tags: []
@@ -12,10 +12,7 @@ comments: false
 ads: false
 ---
 
-This tutorial relates to the clayster book "Learning IoT" written by
-Peter Waher in chapter 6 there os a thorough example of how to use
-XMPP with Internet of Things the full projekt is available on hit
-github [Learning IoT full source code](https://github.com/Clayster)
+This tutorial relates to chapter 6 of the book [“Learning Internet of Things](https://www.packtpub.com/application-development/learning-internet-things)”, written by Peter Waher. The chapter includes a thorough example of how to use XMPP for Internet of Things. The full project is available on GitHub: [Learning IoT full source code](https://github.com/Clayster)
 
 #Preparations
 To do the XMPP tutorials from the book you need to donwload the XMPP
