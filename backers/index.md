@@ -46,4 +46,3 @@ Name | Description
 
 This is maintained by [Joachim Lindborg](http://lsys.se/)  member of the  [XMPP Extensions Foundation](http://xmpp.org/about-xmpp/xsf/xsf-member-list/)
 
-Clayster is the main initiator and Peter Waher is the main author of the XMPP extensions. Clayster has launched http://Thingk.me to support the developer community to kick-start into learning about XMPP and IoT. Thingk is an XMPP Server (Tigase) and IoT Provisioning platform with support for XEP-323,324, and 325. Thingk is open and free for developer who wants to connect their devices to a none proprietary “Device Cloud”.
