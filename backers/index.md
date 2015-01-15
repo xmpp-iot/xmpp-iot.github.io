@@ -29,10 +29,12 @@ By signing this page. We as an individual or organisation truly believe that.
 
 Logo| Name | Description
  -------------| ------------- | ----------- 
-![logo](http://new.clayster.com/wordpress/wp-content/uploads/2014/05/clayster_vertical_gray_RGB-e1403601813494.png) | [Clayster](http://clayster.com) |Clayster is the main initiator and [Peter Waher](https://cl.linkedin.com/in/peterwaher) is the main author of the XMPP extensions. They run the connected devices site http://Thingk.me
-![logo](http://www.sust.se/wp-content/uploads/2014/06/header-logo.png) | [Sustainable Innovation](http://sust.se) |Sustainable innovation has driven a large Swedish project creating an XMPP IoT infrastructure. Called [Intelligent Energy Services](http://iea.sust.se)
+![logo](http://new.clayster.com/wordpress/wp-content/uploads/2014/05/clayster_vertical_gray_RGB-e1403601813494.png) | [Clayster](http://clayster.com) |Clayster is the main initiator and [Peter Waher](https://cl.linkedin.com/in/peterwaher) is the main author of the XMPP extensions. Clayster has launched [http://Thingk.me](http://Thingk.me) an XMPP server (Tigase) with IoT Provisioning. Thingk is open and free for developer who wants to connect their devices to a none proprietary “Device Cloud”. 
+![logo](http://www.sust.se/wp-content/uploads/2014/06/header-logo.png) | [Sustainable Innovation](http://sust.se) |  [Sustainable innovation created a large State funded Swedish project using an XMPP IoT infrastructure to bridge the business models to create Intelligent Energy Services regardless of the smarthome silos installed.](http://iea.sust.se) 
 ![logo](http://www.sensei-iot.org/images/Sensei-IOT-XMPP.jpg) | [ISO/IEC/IEEE P21451-1-4 XMPP INFC WG](http://www.sensei-iot.org) | The IEEE intitaive tying the XMPP-IoT initiative into the IEEE standards structure
-![logo](http://www.ktc.se/wp-content/themes/2012-ktc/img/logo.png) | [KTC AB](http://ktc.se) | Swedish company. We are using the XMPP to create an open infrastructure for builing control systems.
+![logo](http://www.ktc.se/wp-content/themes/2012-ktc/img/logo.png) | [KTC AB](http://ktc.se/en/) | Swedish company. We are using the XMPP to create an open infrastructure for builing control systems.
+![logo](http://www.ktc.se/wp-content/themes/2012-ktc/img/logo.png) | [KTC AB](http://ktc.se/en/) | Swedish company. We are using the XMPP to create an open infrastructure for builing control systems.
+![logo](http://www.ktc.se/wp-content/themes/2012-ktc/img/logo.png) | [Coversant](http://coversant.com/) | 
 
 
 ## Individuals
@@ -44,3 +46,5 @@ Name | Description
 
 
 This is maintained by [Joachim Lindborg](http://lsys.se/)  member of the  [XMPP Extensions Foundation](http://xmpp.org/about-xmpp/xsf/xsf-member-list/)
+
+Clayster is the main initiator and Peter Waher is the main author of the XMPP extensions. Clayster has launched http://Thingk.me to support the developer community to kick-start into learning about XMPP and IoT. Thingk is an XMPP Server (Tigase) and IoT Provisioning platform with support for XEP-323,324, and 325. Thingk is open and free for developer who wants to connect their devices to a none proprietary “Device Cloud”.
