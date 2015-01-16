@@ -13,6 +13,20 @@ share: false
 ads: false
 ---
 
+The idea of XMPP started long time ago around 2002 when there was an increasing
+number of instant messaging clients that couldn't talk to
+eachother. You needed many many accounts and there was always
+functionallity differenses.
+
+The same problem is now arising with the Internet of Things. There is
+so many different cloud systems talking care of things for
+you. XMPP-IoT provides means for all these systems and individual
+devices to collaborate just as you and I can be friends and start
+chatting.
+
+The extensions created on top of the XMPP protocol all solves
+different usecases. Read, Write, consume 
+
 This is a github based open site connected to the
 [XMPP](http://xmpp.org/) Please help out if you have the time and make
 a fork and a pull request. <a href="https://github.com/xmpp-iot/xmpp-iot.github.io" class="btn">View on GitHub</a>
