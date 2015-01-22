@@ -18,22 +18,23 @@ image:
 
 <div class="tile">
   <h2 class="post-title">Truly open in all aspects</h2>
-  <p class="post-excerpt">XMPP is the only open community based IoT
-  standard. no proprietary groups or memberships everything is on the
-  <a href="http://XMPP.org/extensions" >XSF foundation site</a>. No other
-  organisation will change the standard</p>
+  <p class="post-excerpt">XMPP is an open community based IoT
+  standard. No proprietary groups or memberships needed everything is on the
+  <a href="http://XMPP.org/extensions" >XSF foundation site</a>. There
+  is only one point where changes are done</p>
 </div><!-- /.tile -->
 
 <div class="tile">
   <h2 class="post-title">Every language</h2>
   <p class="post-excerpt">Software is available in any
   programming language, Servers, clients, toolkits even browser
-  implementations. This makes it not only an easy start but also </p>
+  implementations. This makes it not only an easy start but also a
+  future proof solution </p>
 </div><!-- /.tile -->
 
 <div class="tile">
   <h2 class="post-title">Federation between businesses</h2>
-  <p class="post-excerpt">No other standard gives you the possibility
+  <p class="post-excerpt">This messaging standard gives you the possibility
   to share your systems and businessmodels with others without creating yet another REST
   api. Only hook up certificates and your business domain can talk to others
   anywhere on the planet</p>
