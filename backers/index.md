@@ -43,7 +43,8 @@ Logo| Name | Description
 Name | Description
  ------------- | ----------- 
  [Joachim Lindborg](https://se.linkedin.com/in/joachimlindborg/) | XMPP IoT entusiast doing this and much more, really like the intiative. Working in the standards process through the XSF
-
+ ------------- | ----------- 
+ [Steffen Larsen](http://braintrust.dk) | XSF member and XMPP evangalist, that is doing stuff with TV, mobiles, set-top boxes, and home automation. All from second screen, to object sharing etc.
 
 
 This is maintained by [Joachim Lindborg](http://lsys.se/)  member of the  [XMPP Extensions Foundation](http://xmpp.org/about-xmpp/xsf/xsf-member-list/)
