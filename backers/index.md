@@ -43,7 +43,7 @@ Logo| Name | Description
 Name | Description
  ------------- | ----------- 
  [Joachim Lindborg](https://se.linkedin.com/in/joachimlindborg/) | XMPP IoT entusiast doing this and much more, really like the intiative. Working in the standards process through the XSF
-
+ [Markus Kohlhase](http://www.markus-kohlhase.de/) | Software engineer (freelancer) using XMPP within automotion projects.
 
 
 This is maintained by [Joachim Lindborg](http://lsys.se/)  member of the  [XMPP Extensions Foundation](http://xmpp.org/about-xmpp/xsf/xsf-member-list/)
