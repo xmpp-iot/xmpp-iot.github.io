@@ -17,15 +17,17 @@ This tutorial is very simple it just starts up a device and then uses another sc
 # Preparations
 you need an environment that can run python scripts. 
 
-## Two JID's
-first setup two accounts on your favourite XMPP site for example jabber.se
+## Two frineding JID's
+Setup two accounts on your favourite XMPP site for example
+jabber.se. Use any jabber client to test the accounts and make sure
+they are friends.
 
 ## Get the python code
 
-Clone the code from github
+Clone the code from github. Soon released through SleekXMPP
 
 {% highlight bash session %}
-Joachims-MacBook-Pro:IoT joachimlindborg$ git clone -b xep_0323_325 https://github.com/joachimlindborg/SleekXMPP.git 
+>$ git clone -b xep_0323_325 https://github.com/joachimlindborg/SleekXMPP.git 
 {% endhighlight %}
 
 
@@ -43,7 +45,7 @@ INFO     JID set to: yourthing@jabber.se/544301500141697366520183
 WARNING  Could not find pyasn1 and pyasn1_modules. SSL certificate expiration COULD NOT BE VERIFIED.
 {% endhighlight %}
 
-giving a --debug flag would give more information
+giving a - - debug flag would give more information
 
 {% highlight bash session %}
 >$ python IoT_TestDevice.py -j yourthing@jabber.se -p passwd -n test --debug
@@ -92,7 +94,7 @@ INFO     (test relay False) [writable,momentary,automaticReadout,]
 
 # Writing a value to a device
 keep the two scripts above running and start a third one sending a
-value change on the "Toggle" to 
+value change True on the "Toggle" field every 10th second
 
 {% highlight bash session %}
 >$ cd SleekXMPP/examples/IoT
@@ -114,8 +116,8 @@ INFO     Control callback from yourthing@jabber.se/98 result OK error None
 
 {% endhighlight %}
 
-You now see the relay value changing once in a while in the reader
-script.
+You now see the value of the relay changing once in a while in script
+reading values from the first instance.
 
 # What have you done?
 
