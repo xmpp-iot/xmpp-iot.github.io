@@ -13,7 +13,7 @@ image:
   profound scalability and security tests. There are massive amounts
   of servers and millions of users across the planet. That has run
   XMPP over many years. As from spring 2014 no public servers may run
-  un encrypted</p>
+  unencrypted</p>
 </div><!-- /.tile -->
 
 <div class="tile">
