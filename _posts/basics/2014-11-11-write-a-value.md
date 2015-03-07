@@ -5,7 +5,7 @@ categories: basics
 modified: 2014-11-04T02:02:02
 tags: [basics]
 image:
- teaser: control_image_400x250.png 
+ teaser: control_image_400x250_white.png 
 toc: true
 comments: false
 share: false
