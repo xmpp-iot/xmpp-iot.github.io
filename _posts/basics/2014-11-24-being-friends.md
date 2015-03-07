@@ -4,6 +4,8 @@ title: "Friendship between peers"
 categories: basics
 modified: 2014-12-01T11:57:41-04:00
 tags: [sample]
+image:
+  teaser: friends_image_400x250.png
 toc: false
 comments: false
 ads: false
