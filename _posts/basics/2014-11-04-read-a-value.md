@@ -5,6 +5,8 @@ categories: basics
 modified: 2014-11-04T05:05:05
 tags: [basics]
 toc: true
+image:
+  teaser: read_image_400x250_white.png
 comments: false
 share: false
 ads: false
