@@ -13,14 +13,20 @@ ads: false
 ---
 
 
-This tutorial runs a python script on a raspberry, or the like, and publishes a XMPP JID that you can use to 
-# Preparations
+This tutorial runs a python script on a raspberry, or the like, and
+publishes a XMPP JID that you be friend with and then use both  [XEP 323](http://xmpp.org/extensions/xep-0323.html) read
+and  [XEP 325](http://xmpp.org/extensions/xep-0325.html) control. But you can also use plain chat to interact with
+the lamp through simple chat.
+
+#Preparations
 you need an environment that can run python scripts.
 
-## Setup a JID for each lamp
-first setup accounts for each lamp on your favourite XMPP site for example jabber.se
+## A JID for each lamp
+You need one Jabber ID or JID for short. First setup these accounts
+for each lamp on your favourite XMPP site for example [jabber.se] or
+find one on any of the [free public and secure XMPP sites](https://xmpp.net/directory.php)
 
-## Get the python code
+##Get the python code
 
 Clone the philipshue api and SleekXMPP code from github
 
@@ -33,9 +39,12 @@ Cloning into 'SleekXMPP'...
 {% endhighlight %}
 
 
-## start the server device
+## start the Hue Api client
 
-The script will try to connect to the local HUE gateway. If it cannot get access the script will ask you to push the connect button. If It is able to connect it will log on to the gateway.
+The script will try to connect to the local HUE gateway. If it cannot
+get access the script will ask you to push the connect button. If It
+is able to connect it will log on to the gateway. It uses the central
+Philips Hue service to find the IP adress for the gateway 
 
 - Each lamp is known as "individual" so you start one script for each lamp.
 - If you don't provide an individual you will adress the whole group
