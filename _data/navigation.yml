@@ -1,5 +1,10 @@
 # Site navigation links
 
+- title: Gsoc
+  url: /gsoc
+  excerpt: Teaser tasks for the Google summer of code
+  image: 400x250.gif
+
 - title: Basics
   url: /basics
   excerpt: Describe the basics for using XMPP for IoT

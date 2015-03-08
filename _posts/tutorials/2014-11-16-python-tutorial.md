@@ -13,11 +13,18 @@ ads: false
 ---
 
 
-This tutorial is very simple it just starts up a device and then uses another script to control it.
+This tutorial is very simple we start two sripts mimicing two devices
+talking to each other one acting as a device with two values a PIR
+motion sensor and a RELAY that can toggle "true" "false".
+<figure>
+	<a href="../images/Script_to_script.png"><img src="../images/Script_to_script.png"></a>
+	<figcaption>Two scripts talking</figcaption>
+</figure>
+
 # Preparations
 you need an environment that can run python scripts. 
 
-## Two frineding JID's
+## Two friending JID's
 Setup two accounts on your favourite XMPP site for example
 jabber.se. Use any jabber client to test the accounts and make sure
 they are friends.
