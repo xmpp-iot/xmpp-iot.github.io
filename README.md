@@ -16,7 +16,9 @@ Here you can do tutorials in several programming languages.
 
 Please help out with the site add issues and pull requests to get it all working nicely.
 
-take a look at [Skinny Bones demo](http://mmistakes.github.io/skinny-bones-jekyll/) for some examples on how to work with the theme
-
+take a look at
+[Skinny Bones demo](http://mmistakes.github.io/skinny-bones-jekyll/)
+for some examples on how to work with the theme and with the
+sourcecode for it here [Skinny Bones source code](https://github.com/mmistakes/skinny-bones-jekyll/tree/gh-pages)
 
 *The site is based on "Skinny Bones" Jekyll template thanks to: [Made Mistakes](http://mademistakes.com)*
