@@ -13,15 +13,19 @@ share: true
 ads: false
 ---
 
-The XMPP community is part of the Google summer of Code 2015 and for XMPP-IoT we have three projects that can be of interest
-* [prototyping tools with python and javascript](http://wiki.xmpp.org/web/Summer_of_Code_2015#Prototyping_tools.2C_for_Internet_of_Things_Using_SleekXMPP_and_Web)
-* [Adding XMPP-iot to opent](http://wiki.xmpp.org/web/Summer_of_Code_2015#Adding_XMPP-IoT_to_the_openHAB_smarthome_project_using_Smack)
-The third IoT realted project is maintained by Process one
-* [Provisioning and registry of Things for Ejabberd](http://wiki.xmpp.org/web/Summer_of_Code_2015#Provisioning_and_registry_of_Things_.28IoT.29_for_ejabberd)
-You can also propose others if you have an idea. post it to the chat room or mailing list
+The XMPP community is part of the Google summer of Code 2015 and for XMPP-IoT we have several projects
 
 #What is this XMPP-IoT
-There are many many solutions to connecting Internet of Things (IoT) devices to internet, to create services and interesting applications. on this site you find an introduction to how we mimic the world of people chatting to enable **any device to any device** interoperability. Supporting all usecases that IoT needs. Especially the possibility to be a way for companies to interact thjrough federation.
+There are many many solutions to connecting Internet of Things (IoT) devices to internet, to create services and interesting applications. on this site you find an introduction to how we mimic the world of people chatting to enable **any device to any device** interoperability. Supporting all usecases that IoT needs. Especially the possibility to be a way for companies to interact through federation.
+The projects are:
+
+* [prototyping tools with python and javascript](http://wiki.xmpp.org/web/Summer_of_Code_2015#Prototyping_tools.2C_for_Internet_of_Things_Using_SleekXMPP_and_Web)
+* [Adding XMPP-iot to opent](http://wiki.xmpp.org/web/Summer_of_Code_2015#Adding_XMPP-IoT_to_the_openHAB_smarthome_project_using_Smack)
+
+The third IoT realted project is maintained by Process one
+
+* [Provisioning and registry of Things for Ejabberd](http://wiki.xmpp.org/web/Summer_of_Code_2015#Provisioning_and_registry_of_Things_.28IoT.29_for_ejabberd)
+You can also propose others if you have an idea. post it to the chat room or mailing list
 
 #Talk to us!
 
