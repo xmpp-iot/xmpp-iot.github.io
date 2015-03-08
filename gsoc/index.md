@@ -35,7 +35,7 @@ You can also propose others if you have an idea. post it to the chat room or mai
 -  [Join the gsoc maillist]( http://mail.jabber.org/mailman/listinfo/gsoc)
 - there is also a twitter handle [@XMPPIoT to be used](https://twitter.com/XMPPIoT)
 
-##Teaser task for prototyping tools
+##Teaser tasks for prototyping tools
 
 To be able to quickly startup any project you need to have prototyping tools. Using python and javascript in combination gives you a very quick start on almost any device
 
@@ -45,9 +45,9 @@ To be able to quickly startup any project you need to have prototyping tools. Us
 * Look at the scripts avaliable in the [SleekXMPP IoT examples](https://github.com/joachimlindborg/SleekXMPP/tree/xep_0323_325/examples/IoT) especially the PhilipsHue. Create a mapping to another open API for a device.
 
 
-##Teaser task for openHAB
+##Teaser tasks for openHAB
 
 * start an OpenHAB instance and trigger the XMPP module to send a plain chat message to the python script in the tutorial triggering a relay "Toggle"
-* Implement a first SMACK-extension for the XEP323 basic stanza  
+* Implement a first SMACK-extension for the  [XEP323 basic stanzas]( http://xmpp.org/extensions/xep-0323.html) as decribed in the extension 
 
 This is maintained by [Joachim Lindborg](http://lsys.se/)  member of the  [XMPP Extensions Foundation](http://xmpp.org/about-xmpp/xsf/xsf-member-list/)
