@@ -17,7 +17,7 @@ This tutorial is very simple we start two sripts mimicing two devices
 talking to each other one acting as a device with two values a PIR
 motion sensor and a RELAY that can toggle "true" "false".
 <figure>
-	<a href="../images/Script_to_script.png"><img src="../images/Script_to_script.png"></a>
+	<a href="../../images/Script_to_script.png"><img src="../../images/Script_to_script.png"></a>
 	<figcaption>Two scripts talking</figcaption>
 </figure>
 
