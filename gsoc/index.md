@@ -13,10 +13,11 @@ share: true
 ads: false
 ---
 
-The XMPP community is part of the Google summer of Code 2015 and for XMPP-IoT we have three projects that can be of interest [prototyping tools with python and javascript](http://wiki.xmpp.org/web/Summer_of_Code_2015#Prototyping_tools.2C_for_Internet_of_Things_Using_SleekXMPP_and_Web)
-[Adding XMPP-iot to opent](http://wiki.xmpp.org/web/Summer_of_Code_2015#Adding_XMPP-IoT_to_the_openHAB_smarthome_project_using_Smack)
+The XMPP community is part of the Google summer of Code 2015 and for XMPP-IoT we have three projects that can be of interest
+* [prototyping tools with python and javascript](http://wiki.xmpp.org/web/Summer_of_Code_2015#Prototyping_tools.2C_for_Internet_of_Things_Using_SleekXMPP_and_Web)
+* [Adding XMPP-iot to opent](http://wiki.xmpp.org/web/Summer_of_Code_2015#Adding_XMPP-IoT_to_the_openHAB_smarthome_project_using_Smack)
 The third IoT realted project is maintained by Process one
-[Provisioning and registry of Things for Ejabberd](http://wiki.xmpp.org/web/Summer_of_Code_2015#Provisioning_and_registry_of_Things_.28IoT.29_for_ejabberd)
+* [Provisioning and registry of Things for Ejabberd](http://wiki.xmpp.org/web/Summer_of_Code_2015#Provisioning_and_registry_of_Things_.28IoT.29_for_ejabberd)
 You can also propose others if you have an idea. post it to the chat room or mailing list
 
 #What is this XMPP-IoT
@@ -24,17 +25,18 @@ There are many many solutions to connecting Internet of Things (IoT) devices to 
 
 #Talk to us!
 
-We'd really like to talk with you a bit, so please come by the XSF's GSoC MUC room at gsoc@muc.xmpp.org and have a chat you find the logs on http://mail.jabber.org/mailman/listinfo/gsoc
-Join the maillist http://mail.jabber.org/mailman/listinfo/gsoc there is also a twitter handle @XMPPIoT to be used https://twitter.com/XMPPIoT
+- We'd really like to talk with you a bit, so please come by the XSF's GSoC MUC room at gsoc@muc.xmpp.org and have a chat. [you find the logs here]( http://logs.xmpp.org/gsoc)
+-  [Join the gsoc maillist]( http://mail.jabber.org/mailman/listinfo/gsoc)
+- there is also a twitter handle [@XMPPIoT to be used](https://twitter.com/XMPPIoT)
 
 ##Teaser task for prototyping tools
 
 To be able to quickly startup any project you need to have prototyping tools. Using python and javascript in combination gives you a very quick start on almost any device
 
 * Run the sample scripts under the [Tutorials](http://xmpp-iot.github.io/tutorials/) And propose better ones to understand the concepts.
-* Create a python script "makingfriends" to manage friendship subscriptions between devices when 
+* Create a python script "makingfriends" to manage friendship subscriptions between devices when you need several JID's to be able to talk to each other.
 * Build a one to many chat room example of a device sending values to many devices in a MUC chatroom using XEP323 message stanzas
-* 
+* Look at the scripts avaliable in the [SleekXMPP IoT examples](https://github.com/joachimlindborg/SleekXMPP/tree/xep_0323_325/examples/IoT) especially the PhilipsHue. Create a mapping to another open API for a device.
 
 
 ##Teaser task for openHAB
