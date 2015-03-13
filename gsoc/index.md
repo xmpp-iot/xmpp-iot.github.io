@@ -16,7 +16,7 @@ ads: false
 The XMPP community is part of the Google summer of Code 2015 and for XMPP-IoT we have several projects
 
 #What is this XMPP-IoT
-There are many many solutions to connecting Internet of Things (IoT) devices to internet, to create services and interesting applications. on this site you find an introduction to how we mimic the world of people chatting to enable **any device to any device** interoperability. Supporting all usecases that IoT needs. Especially the possibility to be a way for companies to interact through federation.
+There are many solutions how to connect Internet of Things (IoT) devices to internet, to create services and interesting applications. on this site you find an introduction to how we mimic the world of people chatting to enable **any device to any device** interoperability. Supporting all usecases that IoT needs. Especially the possibility to be a way for companies to interact through federation.
 
 The projects are:
 
@@ -47,7 +47,10 @@ To be able to quickly startup any project you need to have prototyping tools. Us
 
 ##Teaser tasks for openHAB
 
-* start an OpenHAB instance and trigger the XMPP module to send a plain chat message to the python script in the tutorial triggering a relay "Toggle"
-* Implement a first SMACK-extension for the  [XEP323 basic stanzas]( http://xmpp.org/extensions/xep-0323.html) as decribed in the extension 
+ [OpenHAB](http://openhab.org/) is an opensoruce project acting as a control environment for a smart home bridging between many different physical protocols. 
+
+* start an OpenHAB instance and trigger the XMPP module to send a plain chat message **ex "Toggle"** or **"relay=True"**.  This can be sent to another OpenHAB instance recieving the message and acting on it's local variables. It can also be sent to the  [python script in the tutorial](http://xmpp-iot.github.io/tutorials/python-tutorial/) triggering a relay to "Toggle".
+
+* Implement a first SMACK-extension for the  [XEP323 basic stanzas]( http://xmpp.org/extensions/xep-0323.html). First a read request. https://github.com/igniterealtime/Smack/tree/master/smack-extensions some more info https://www.igniterealtime.org/builds/smack/docs/latest/documentation/extensions/index.html
 
 This is maintained by [Joachim Lindborg](http://lsys.se/)  member of the  [XMPP Extensions Foundation](http://xmpp.org/about-xmpp/xsf/xsf-member-list/)
