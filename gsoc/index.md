@@ -51,6 +51,6 @@ To be able to quickly startup any project you need to have prototyping tools. Us
 
 * start an OpenHAB instance and trigger the XMPP module to send a plain chat message **ex "Toggle"** or **"relay=True"**.  This can be sent to another OpenHAB instance recieving the message and acting on it's local variables. It can also be sent to the  [python script in the tutorial](http://xmpp-iot.github.io/tutorials/python-tutorial/) triggering a relay to "Toggle".
 
-* Implement a first SMACK-extension for the  [XEP323 basic stanzas]( http://xmpp.org/extensions/xep-0323.html). First a read request.   [https://github.com/igniterealtime/Smack/tree/master/smack-extensions] some more info [https://www.igniterealtime.org/builds/smack/docs/latest/documentation/extensions/index.html]
+* Implement a first SMACK-extension for the  [XEP323 basic stanzas]( http://xmpp.org/extensions/xep-0323.html). First a read request.   [Smack extensions](https://github.com/igniterealtime/Smack/tree/master/smack-extensions) some more info [Smack docs](https://www.igniterealtime.org/builds/smack/docs/latest/documentation/extensions/index.html)
 
 This is maintained by [Joachim Lindborg](http://lsys.se/)  member of the  [XMPP Extensions Foundation](http://xmpp.org/about-xmpp/xsf/xsf-member-list/)
