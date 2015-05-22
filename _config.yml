@@ -5,7 +5,15 @@ description: "How XMPP can solve the IoT puzzle"
 logo: 120x120.gif # 120x120 px default image used for Twitter summary card
 teaser: 400x250.gif # 400x250 px default teaser image used in image archive grid
 locale:
-url: //xmpp-iot.github.io
+#url: //xmpp-iot.github.io
+url: http://localhost:4000
+
+# GSoC Blog
+
+blog_name: GSoC 2015 Blog
+blog_description: All posts related to XMPP IoT GSoC 2015 Project will be posted here.
+#blog_url: //xmpp-iot.github.io/gsoc
+blog_url: http://localhost:4000/gsoc
 
 # Jekyll configuration
 
