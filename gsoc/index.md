@@ -12,7 +12,7 @@ image:
 share: true
 ads: false
 ---
-***Prototyping tools*** is a project that is part of the [google summer of code 2015](http://www.google-melange.com/gsoc/homepage/google/gsoc2015). The project will blog here about proceedings and the evolvement.  
+***Prototyping tools for IoT*** is a project that is part of the [google summer of code 2015](http://www.google-melange.com/gsoc/homepage/google/gsoc2015). The project will blog here about proceedings and the evolvement.  
 
 <div class="tiles">
 {% for post in site.categories.gsoc %}
