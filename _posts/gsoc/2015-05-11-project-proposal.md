@@ -7,7 +7,7 @@ categories: gsoc
 excerpt:
 tags: []
 image:
-  feature:
+  feature: prototyping-iot_400x250.png
   teaser:
   thumb:
 ads: false
