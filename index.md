@@ -34,10 +34,10 @@ image:
 
 <div class="tile">
   <h2 class="post-title">Federation between businesses</h2>
-  <p class="post-excerpt">This messaging standard gives you the possibility
+  <p class="post-excerpt">Federation between servers is core functionality, gives you ability
   to share your systems and businessmodels with others without creating yet another REST
-  api. Only hook up certificates and your business domain can talk to others
-  anywhere on the planet</p>
+  api. Only hook up certificates and your business domain can talk to other companies
+  anywhere on internet.</p>
 </div><!-- /.tile -->
 
 </div><!-- /.tiles -->
