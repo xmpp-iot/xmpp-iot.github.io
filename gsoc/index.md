@@ -8,7 +8,7 @@ excerpt: "XMPP-IoT in the Google summer of code 2015"
 image:
   feature:
   teaser:
-  thumb:
+  thumb: prototyping-iot_400x250.png
 share: true
 ads: false
 ---
