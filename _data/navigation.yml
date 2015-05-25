@@ -3,7 +3,7 @@
 - title: Gsoc
   url: /gsoc
   excerpt: Everything about Google Summer of Code
-  image: 400x250.gif
+  image: prototyping-iot_400x250.png
 
 - title: Basics
   url: /basics
@@ -13,7 +13,7 @@
 - title: Tutorials
   url: /tutorials
   excerpt: Try it out in different languages
-  image: 400x250.gif
+  image: friends_image_400x250_white.png
 
 - title: About
   url: /about
