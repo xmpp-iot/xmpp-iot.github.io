@@ -1,6 +1,6 @@
 ---
 layout: article
-title: "Hiding legacy"
+title: "Hiding legacy systems"
 categories: basics
 modified: 2014-11-24T11:57:41-04:00
 tags: [basics]
@@ -9,9 +9,9 @@ comments: false
 ads: false
 ---
 
-When talking to a peer you can assume it is a device or thing with node's and fields. But behind that device there could be a whole legacy system. What if the peer you are talking to is a big legacy system consisting of thousands of devices with many fields.
+When talking to a peer you can assume it is a device or thing with node's and fields. But behind that device there could be a whole legacy system. What if the peer you are talking *metering@utility.com* is a big system of thousands of devices with many fields.
 
-XMPP-IoT give you the possibility to model your world in different ways we have talked of **Nodes** and **Fields** and that a device can have a flat level with many nodes with fields
+XMPP-IoT give you the possibility to model your world in different ways we have talked of **Nodes** and **Fields** and that a device can have a flat level with many nodes with fields.
 
 The XMPP-IoT extension [XEP-326 Concentrators](http://xmpp.org/extensions/xep-0326.html) makes it possible to extend this with the possibility to describe any hiearchy physical and or logical.
 
