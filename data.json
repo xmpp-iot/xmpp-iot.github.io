@@ -1,0 +1,138 @@
+
+{
+    "timeline":
+    {
+        "headline":"<i>Prototyping Tools</i>",
+        "type":"default",
+		"startDate":"2015,5,25",
+		"text":"<i><span class='c1'>XMPP Standards Foundation</span></i>",
+		"asset":
+        {
+            "media":"",
+            "credit":"",
+            "caption":""
+        },
+        "date": [
+            {
+                "startDate":"2015,5,25",
+		"endDate":"2015,6,7",
+                "headline":"Create an Interactive user interface for Web Visualisation Client using HTML, CSS.",
+                "text":"",
+                "asset":
+                {
+                    "media":"",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"2015,6,8",
+		"endDate":"2015,6,14",
+                "headline":"Graph Visualiser for Web Client and extending Teaser Tasks(Relay and Make Friend Features) to the Web View.",
+                "text":"",
+                "asset":
+                {
+                    "media":"",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"2015,6,15",
+		"endDate":"2015,6,21",
+                "headline":"Extending existing examples to other hardware platforms like for intel edison, intel galileo, raspberry PI 2, beagle bone black, etc.",
+                "text":"",
+                "asset":
+                {
+                    "media":"",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"2015,6,22",
+		"endDate":"2015,6,28",
+                "headline":"Come up with a working HTML Client for devices and Access Rights Manager.",
+                "text":"",
+                "asset":
+                {
+                    "media":"",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"2015,6,29",
+		"endDate":"2015,7,5",
+                "headline":"Catch Up for Mid Term Evaluation.",
+                "text":"",
+                "asset":
+                {
+                    "media":"",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"2015,7,6",
+		"endDate":"2015,7,19",
+                "headline":"Make Web Client as Mobile Application using Cordova.",
+                "text":"",
+                "asset":
+                {
+                    "media":"",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"2015,7,20",
+		"endDate":"2015,7,26",
+                "headline":"Create a Client-Device Logger that would log data for a device.",
+                "text":"",
+                "asset":
+                {
+                    "media":"",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"2015,7,27",
+		"endDate":"2015,8,8",
+                "headline":"Make Tutorials and Implement XEP-0326.",
+                "text":"",
+                "asset":
+                {
+                    "media":"",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"2015,8,9",
+		"endDate":"2015,8,16",
+                "headline":"Catch Up Week for all Deliverables.",
+                "text":"",
+                "asset":
+                {
+                    "media":"",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"2015,8,17",
+		"endDate":"2015,8,23",
+                "headline":"Pencils Down Week, Improve Documentation for all the Products.",
+                "text":"",
+                "asset":
+                {
+                    "media":"",
+                    "credit":"",
+                    "caption":""
+                }
+            }
+        ]
+    }
+}
