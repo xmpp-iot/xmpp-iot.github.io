@@ -7,8 +7,8 @@ categories: gsoc
 excerpt:
 tags: []
 image:
-  feature: prototyping-iot_400x250.png
-  teaser:
+  feature: 
+  teaser: prototyping-iot_400x250.png
   thumb:
 ads: false
 date: 2015-05-11T16:50:57+05:30
