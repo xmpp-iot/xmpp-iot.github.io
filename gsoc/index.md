@@ -13,24 +13,24 @@ share: true
 ads: false
 ---
 ***Prototyping tools for IoT*** is a project that is part of the [google summer of code 2015](http://www.google-melange.com/gsoc/homepage/google/gsoc2015). The project will blog here about proceedings and the evolvement.  
-!-- jQuery -->
-		<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+<div>
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
 		
-		<!-- BEGIN TimelineJS -->
-		<script type="text/javascript" src="js/storyjs-embed.js"></script>
-		<script>
-			$(document).ready(function() {
-				createStoryJS({
-					type:		'timeline',
-					width:		'600',
-					height:		'200',
-					source:		'data.json',
-					embed_id:	'my-timeline',
-					debug:		true
-				});
-			});
-		</script>
-		<!-- END TimelineJS -->
+
+<script type="text/javascript" src="js/storyjs-embed.js"></script>
+<script>
+	$(document).ready(function() {
+	createStoryJS({
+		type:		'timeline',
+		width:		'600',
+		height:		'200',
+		source:		'data.json',
+		embed_id:	'my-timeline',
+		debug:		true
+		});
+	});
+</script>
+</div>		<!-- END TimelineJS -->
 <div class="tiles">
 {% for post in site.categories.gsoc %}
   {% include post-grid.html %}
