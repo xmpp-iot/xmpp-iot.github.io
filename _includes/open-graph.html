@@ -1,5 +1,7 @@
 	<!-- Twitter Cards -->
 	<meta name="twitter:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}">
+	<link rel="stylesheet" type="text/css" media="screen" href="http://localhost:4000/css/converse.min.css">
+	<script src="http://localhost:4000/js/converse.min.js"></script>
 	{% if page.excerpt %}<meta name="twitter:description" content="{{ page.excerpt | strip_html }}">{% endif %}
 	{% if site.owner.twitter %}<meta name="twitter:site" content="@{{ site.owner.twitter }}">{% endif %}
 	{% if author.twitter %}<meta name="twitter:creator" content="@{{ author.twitter }}">{% endif %}
