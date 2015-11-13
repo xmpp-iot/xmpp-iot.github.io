@@ -4,7 +4,7 @@ title: "Read and Write to Devices With Converse.js"
 author: adhish_singla
 modified:
 categories: tutorials
-excerpt:
+excerpt: Being able to connect to devices directly from a browser is very easy try it out here
 tags: [howto]
 toc: true
 image:
