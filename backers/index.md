@@ -31,8 +31,8 @@ By signing this page. We as an individual or organisation support:
 
 Logo| Name | Description
  -------------| ------------- | ----------- 
-<img src="http://cytiot.com/wp-content/themes/spearmintOne/images/logo/Logo.png" width="200" /> | [Cytiot](http://cytiot.com) | Advanced IoT company active in UPnP forum and certified by department of defense, heavily using XMPP as infrastructure
-<img src="http://www.iotfy.co/static/img/logo2.png" width="100" /> | [IoTfy](http://IoTfy) | Startup from India commited to creating an open federated plattform with no coding need
+<img src="http://cytiot.com/wp-content/themes/spearmintOne/images/logo/Logo.png" width="200" /> | [Cytiot](http://cytiot.com) | Advanced IoT company active in [UPnP forum](http://upnp.org/latestupdates/upnpplus/) and certified by department of defense, heavily using XMPP as infrastructure
+<img src="http://www.iotfy.co/static/img/logo2.png" width="100" /> | [IoTfy](http://IoTfy) | Startup from India commited to creating an open federated plattform with no coding need.
 <img src="http://clayster.com/images/logo.png" width="100" /> | [Clayster](http://clayster.com) |Clayster is the main initiator and [Peter Waher](https://cl.linkedin.com/in/peterwaher) is the main author of the XMPP extensions. Clayster has launched [http://Thingk.me](http://Thingk.me) an XMPP server (Tigase) with IoT Provisioning. Thingk is open and free for developer who wants to connect their devices to a none proprietary “Device Cloud”. 
 ![logo](http://www.sust.se/wp-content/uploads/2014/12/header-logo_en.png) | [Sustainable Innovation](http://sust.se) |  [Sustainable innovation created a large State funded Swedish project using an XMPP IoT infrastructure to bridge the business models to create Intelligent Energy Services regardless of the smarthome silos installed.](http://iea.sust.se) 
 ![logo](http://www.sensei-iot.org/images/Sensei-IOT-XMPP.jpg) | [ISO/IEC/IEEE P21451-1-4 XMPP INFC WG](http://www.sensei-iot.org) | The IEEE intitaive tying the XMPP-IoT initiative into the IEEE standards structure
