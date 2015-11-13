@@ -6,7 +6,7 @@ modified: 2014-11-16T01:01:01
 tags: []
 toc: true
 image:
- teaser: net-logo.jpg
+ teaser: <img src="http://www.xmpp-iot.org/images/net-logo.jpg" width="400" height="250" />
 share: false
 comments: false
 ads: false
