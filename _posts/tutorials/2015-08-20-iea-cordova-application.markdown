@@ -4,7 +4,7 @@ title: "IEA Cordova Application"
 author: adhish_singla
 modified:
 categories: tutorials
-excerpt:
+excerpt: This is a nice tutorial runninga cordova mobile app to connect to devices on Internet
 tags: [howto]
 toc: true
 image:
