@@ -31,7 +31,7 @@ By signing this page. We as an individual or organisation support:
 
 Logo| Name | Description
  -------------| ------------- | ----------- 
-![logo](http://new.clayster.com/wordpress/wp-content/uploads/2014/05/clayster_vertical_gray_RGB-e1403601813494.png) | [Clayster](http://clayster.com) |Clayster is the main initiator and [Peter Waher](https://cl.linkedin.com/in/peterwaher) is the main author of the XMPP extensions. Clayster has launched [http://Thingk.me](http://Thingk.me) an XMPP server (Tigase) with IoT Provisioning. Thingk is open and free for developer who wants to connect their devices to a none proprietary “Device Cloud”. 
+![logo](http://clayster.com/images/logo.png) | [Clayster](http://clayster.com) |Clayster is the main initiator and [Peter Waher](https://cl.linkedin.com/in/peterwaher) is the main author of the XMPP extensions. Clayster has launched [http://Thingk.me](http://Thingk.me) an XMPP server (Tigase) with IoT Provisioning. Thingk is open and free for developer who wants to connect their devices to a none proprietary “Device Cloud”. 
 ![logo](http://www.sust.se/wp-content/uploads/2014/12/header-logo_en.png) | [Sustainable Innovation](http://sust.se) |  [Sustainable innovation created a large State funded Swedish project using an XMPP IoT infrastructure to bridge the business models to create Intelligent Energy Services regardless of the smarthome silos installed.](http://iea.sust.se) 
 ![logo](http://www.sensei-iot.org/images/Sensei-IOT-XMPP.jpg) | [ISO/IEC/IEEE P21451-1-4 XMPP INFC WG](http://www.sensei-iot.org) | The IEEE intitaive tying the XMPP-IoT initiative into the IEEE standards structure
 ![logo](http://www.ktc.se/wp-content/themes/2012-ktc/img/logo.png) | [KTC AB](http://ktc.se/en/) | Swedish company. We are using the XMPP to create an open infrastructure for builing control systems.
@@ -42,9 +42,10 @@ Logo| Name | Description
 
 Name | Description
  ------------- | ----------- 
+ [Peter Waher](http://waher.se/) | IoT architect, advisor & author. Working with the XSF, and other standards bodies, writing extensions and standards for IoT.
  [Joachim Lindborg](https://se.linkedin.com/in/joachimlindborg/) | XMPP IoT entusiast doing this and much more, really like the intiative. Working in the standards process through the XSF
  [Markus Kohlhase](http://www.markus-kohlhase.de/) | Software engineer (freelancer) using XMPP within automotion projects.
 
 
-This is maintained by [Joachim Lindborg](http://lsys.se/)  member of the  [XMPP Extensions Foundation](http://xmpp.org/about-xmpp/xsf/xsf-member-list/)
+This is maintained by [Joachim Lindborg](http://lsys.se/)  member of the  [XMPP Standards Foundation](http://xmpp.org/about-xmpp/xsf/xsf-member-list/)
 
