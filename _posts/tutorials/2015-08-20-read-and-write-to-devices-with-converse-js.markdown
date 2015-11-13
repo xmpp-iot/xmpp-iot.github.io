@@ -9,7 +9,7 @@ tags: [howto]
 toc: true
 image:
   feature:
-  teaser: <img src="http://www.xmpp-iot.org/images/conversejs.png" width="400" height="250" />
+  teaser: conversejs.png
   thumb:
 share: false
 comments: false
