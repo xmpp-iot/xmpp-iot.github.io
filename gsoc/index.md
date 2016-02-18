@@ -20,18 +20,18 @@ Mentor for the projekt is [Joachim Lindborg](http://lsys.se) and is reachable at
   - xmpp: jabberjocke@jabber.se 
   - twitter: @joachimlindborg
 
-## Logging data in database
+## 1. Logging data in database
 One of the crucial things in IoT is storing data you should extend the [History logger script](https://github.com/joachimlindborg/SleekXMPP/tree/xep_0323_325/examples/IoT) with possibilty to store the data in a database either locally or on a remote system. Do the work in a plugin fashion so it will be easy to extend with other database api's in the future. Also create a tutorial on this site to show how it works. 
   [ ] **Done by: **
 
-## XMPP-IoT'ifying a device
+## 2. XMPP-IoT'ifying a device
 in the [example catalog](https://github.com/joachimlindborg/SleekXMPP/tree/xep_0323_325/examples/IoT) you find an example on extending the PhilipsHue gateway so it can be used over the XMPP-IoT network. Find another API based IoT device or system and extend it so it can be accessed over the XMPP network. some ideas:
   [ ] http://developer.xively.com/ **Done by: **
   [ ] https://dev.netatmo.com/doc **Done by: **
   [ ] Add your own thing **Done by: **
 
 
-## Make a script querying another devcie's capabilities
+## 3. Make a script querying another devcie's capabilities
 Disco is a way in XMPP to discover another XMPP enpoint's capabiilties. Create a script in the [example catalog](https://github.com/joachimlindborg/SleekXMPP/tree/xep_0323_325/examples/IoT) catalog that query another JID for it capabilities and list's the IoT realted Xep's it supports in a nice fashion prefrably creating a nice markdown page. 
   [ ] **Done by: **
 
