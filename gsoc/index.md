@@ -19,11 +19,12 @@ Below you find the teaser tasks for 2016
 Mentor for the projekt is [Joachim Lindborg](http://lsys.se) and is reachable at
 
   -xmpp: jabberjocke@jabber.se 
+
   -twitter: @joachimlindborg
   
   * teaser tasks should be tested and ran on your own environment before sen in with pullrequest 
   * Change this page with a pullrequest when you have done a tesertask so others can focus on the other ones
-  * Keep Joachim Lindborg in the loop when you shoose a task
+  * Keep Joachim Lindborg in the loop when you choose a task
   * Feel free to come with your own suggestions of a teaser task *encouraged*
 
 ## 1. Logging data in database
@@ -46,7 +47,7 @@ Disco is a way in XMPP to discover another XMPP enpoint's capabiilties. Create a
   [ ]**Done by:**
 
 # Last year Google summer of code 2015
-Last years project is kept here as a reference [google summer of code 2015](http://www.google-melange.com/gsoc/homepage/google/gsoc2015). The project created a gui and a cordova application that you can use for this summers work. You will be blogging on this site
+Last years project is kept here as a reference [google summer of code 2015](http://www.google-melange.com/gsoc/homepage/google/gsoc2015). The project created a gui and a cordova application that you can use for this summers work.
 
 Deliverables
   * IoT Protocols implementation for XMPP Chat Client Converse.Js
