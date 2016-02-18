@@ -18,9 +18,9 @@ ads: false
 Below you find the teaser tasks for 2016 
 Mentor for the projekt is [Joachim Lindborg](http://lsys.se) and is reachable at
 
-  -xmpp: jabberjocke@jabber.se 
+  -xmpp:jabberjocke@jabber.se 
 
-  -twitter: @joachimlindborg
+  -twitter:@joachimlindborg
   
   * teaser tasks should be tested and ran on your own environment before sen in with pullrequest 
   * Change this page with a pullrequest when you have done a tesertask so others can focus on the other ones
