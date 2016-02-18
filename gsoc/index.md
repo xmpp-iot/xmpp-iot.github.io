@@ -17,6 +17,7 @@ ads: false
 # Teaser tasks for 2016
 Below you find the teaser tasks for 2016 
 Mentor for the projekt is [Joachim Lindborg](http://lsys.se) and is reachable at
+
   -xmpp: jabberjocke@jabber.se 
   -twitter: @joachimlindborg
   
@@ -34,13 +35,15 @@ One of the crucial things in IoT is storing data you should extend the [History 
 in the [example catalog](https://github.com/joachimlindborg/SleekXMPP/tree/xep_0323_325/examples/IoT) you find an example on extending the PhilipsHue gateway so it can be used over the XMPP-IoT network. Find another API based IoT device or system and extend it so it can be accessed over the XMPP network. some ideas:
 
   [ ]http://developer.xively.com/ **Done by:**
+
   [ ]https://dev.netatmo.com/doc **Done by:**
+
   [ ]Add your own thing **Done by:**
 
 ## 3. Make a script querying another devcie's capabilities
 Disco is a way in XMPP to discover another XMPP enpoint's capabiilties. Create a script in the [example catalog](https://github.com/joachimlindborg/SleekXMPP/tree/xep_0323_325/examples/IoT) catalog that query another JID for it capabilities and list's the IoT realted Xep's it supports in a nice fashion prefrably creating a nice markdown page. 
-  [ ]**Done by:**
 
+  [ ]**Done by:**
 
 # Last year Google summer of code 2015
 Last years project is kept here as a reference [google summer of code 2015](http://www.google-melange.com/gsoc/homepage/google/gsoc2015). The project created a gui and a cordova application that you can use for this summers work. You will be blogging on this site
