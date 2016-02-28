@@ -55,7 +55,7 @@ in the [example catalog](https://github.com/joachimlindborg/SleekXMPP/tree/xep_0
   [ ]Add your own thing **Done by:**
 
 ## 3. Make a script querying another devcie's capabilities
-Disco is a way in XMPP to discover another XMPP enpoint's capabiilties. Create a script in the [example catalog](https://github.com/joachimlindborg/SleekXMPP/tree/xep_0323_325/examples/IoT) catalog that query another JID for it capabilities and list's the IoT realted Xep's it supports in a nice fashion prefrably creating a nice markdown page. 
+[XEP 0030 Disco](http://xmpp.org/extensions/xep-0030.html) is a way in XMPP to discover another XMPP enpoint's capabiilties. Create a script in the [example catalog](https://github.com/joachimlindborg/SleekXMPP/tree/xep_0323_325/examples/IoT) catalog that query another JID for it capabilities and list's the IoT realted Xep's it supports in a nice fashion prefrably creating a nice markdown page. 
 
   [ ]**Done by:**
 
