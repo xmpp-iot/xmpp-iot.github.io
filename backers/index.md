@@ -38,7 +38,7 @@ Logo| Name | Description
 ![logo](http://www.sensei-iot.org/images/Sensei-IOT-XMPP.jpg) | [ISO/IEC/IEEE P21451-1-4 XMPP INFC WG](http://www.sensei-iot.org) | The IEEE intitaive tying the XMPP-IoT initiative into the IEEE standards structure
 ![logo](http://www.ktc.se/wp-content/themes/2012-ktc/img/logo.png) | [KTC AB](http://ktc.se/en/) | Swedish company. We are using the XMPP to create an open infrastructure for builing control systems.
 ![logo](http://coversant.com/img/logo.png) | [Coversant](http://coversant.com/) | Coversant, Inc.’s XMPP-IoT platform enables devices, applications and humans to be aware of each other and interact only when necessary, coming in and out of relationships as their profile matches events in real time
-![logo](http://www.ismb.it/sites/all/themes/acquia_marina/ismb.jpg) | [ISMB](http://www.ismb.it/) | talian private research center in the ICT field, which gained valuable experience in the xmpp protocol usage in the IoT scenario, deploying it in several local and European funded project
+![logo](http://www.ismb.it/sites/all/themes/acquia_marina/ismb.jpg) | [ISMB](http://www.ismb.it/) | Italian private research center in the ICT field, which gained valuable experience in the XMPP protocol usage in the IoT scenario, deploying it in several local and European funded project.
 
 
 ## Individuals
