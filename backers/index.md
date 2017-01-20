@@ -38,6 +38,7 @@ Logo| Name | Description
 ![logo](http://www.sensei-iot.org/images/Sensei-IOT-XMPP.jpg) | [ISO/IEC/IEEE P21451-1-4 XMPP INFC WG](http://www.sensei-iot.org) | The IEEE intitaive tying the XMPP-IoT initiative into the IEEE standards structure
 ![logo](http://www.ktc.se/wp-content/themes/2012-ktc/img/logo.png) | [KTC AB](http://ktc.se/en/) | Swedish company. We are using the XMPP to create an open infrastructure for builing control systems.
 ![logo](http://www.ismb.it/sites/all/themes/acquia_marina/ismb.jpg) | [ISMB](http://www.ismb.it/) | Italian private research center in the ICT field, which gained valuable experience in the XMPP protocol usage in the IoT scenario, deploying it in several regional and European funded project.
+![logo](https://www.aquevix.com/data/uploads/AQ-logo-black.png) | [Aquevix](https://www.aquevix.com/) | Indian custom software development company. We have deployed MQTT in several projects employing low bandwidth data transfer for large volumes or geospatial data and telemetry data.
 
 
 ## Individuals
