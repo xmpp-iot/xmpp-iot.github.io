@@ -1,10 +1,10 @@
 ---
 layout: archive
-title: "Gsoc 2016"
+title: "Gsoc 2017"
 date: 2015-03-001T09:44:20-04:00
 modified:
 categories: 
-excerpt: "XMPP-IoT is part of Google summer of code 2016"
+excerpt: "XMPP-IoT is again part of Google summer of code"
 image:
   feature: 
   teaser: prototyping-iot_400x250.png
@@ -33,7 +33,7 @@ Mentor for the project is [Davide Conzon](http://www.ismb.it/davide.conzon) and 
 ## Getting started
 Go through this site and and of course http://xmpp.org/ to get the idea of what Internet of Things is and how XMPP is a good fit for that. Then look at the Tutorials and the documentation of [SMACK](https://www.igniterealtime.org/projects/smack/documentation.jsp) and [OpenHAB](http://docs.openhab.org/tutorials/beginner/). A good thing to go further is also to look at the extensions especially xep323 and xep325
 
-  * http://xmpp.org/
+  * (http://xmpp.org/)
   * http://xmpp.org/uses/internet-of-things.html
   * http://www.xmpp-iot.org/tutorials/python-tutorial/
   * http://xmpp.org/extensions/
@@ -74,7 +74,7 @@ https://github.com/igniterealtime/Smack/tree/master/smack-experimental/src/main/
 
 **Done by:**
 
-# 2016 Project
+# Google summer of code 2016
 
 ***Interoperability  testtool for IoT*** is a project within XMPP that is part of the [google summer of code 2016](https://developers.google.com/open-source/gsoc/) This years XMPP-IoT project will focus on creating an interoperabilty testing environment for XMPP based distributed devices pretty much the same idea as on http://xmpp.net. You will add a JID to testtool and it will perform a number of Interoperabilty tests to se what capabilities the device has.
 
@@ -123,8 +123,8 @@ in the [example catalog](https://github.com/joachimlindborg/SleekXMPP/tree/xep_0
 
   [ ]**Done by:**
 
-# Last year Google summer of code 2015
-Last years project is kept here as a reference [google summer of code 2015](http://www.google-melange.com/gsoc/homepage/google/gsoc2015). The project created a gui and a cordova application that you can use for this summers work.
+# Google summer of code 2015
+The summer project of 2015 is kept here as a reference. [google summer of code 2015](http://www.google-melange.com/gsoc/homepage/google/gsoc2015). The project created a gui and a cordova application that you can use to interact with IoT devices.
 
 Deliverables
   * IoT Protocols implementation for XMPP Chat Client Converse.Js
