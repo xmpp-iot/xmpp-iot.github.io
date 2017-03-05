@@ -12,6 +12,70 @@ image:
 share: true
 ads: false
 ---
+
+***Adding XMPP-IoT to the openHAB smarthome project using Smack*** is a project within XMPP, propsed for [google summer of code 2017](https://developers.google.com/open-source/gsoc/). This project will focus on the integration of the support of XMPP-IOT extensions in [OpenHAB](http://www.openhab.org/), through the use of [SMACK libraries](https://www.igniterealtime.org/projects/smack/).
+
+# Teaser Tasks for 2017
+
+Below you find the teaser tasks for 2017. 
+Mentor for the project is [Davide Conzon](http://www.ismb.it/davide.conzon) and is reachable at
+
+  - xmpp:co_davide@chatme.im
+  - twitter:@co_davide
+  - skype:davide.conzon
+
+
+* teaser tasks should be tested and ran on your own environment before sen in with pullrequest 
+* Change this page with a pullrequest when you have done a tesertask so others can focus on the other ones
+* Keep Davide Conzon in the loop when you choose a task
+* Feel free to come with your own suggestions of a teaser task *encouraged*  
+
+## Getting started
+Go through this site and and of course http://xmpp.org/ to get the idea of what Internet of Things is and how XMPP is a good fit for that. Then look at the Tutorials and the documentation of [SMACK](https://www.igniterealtime.org/projects/smack/documentation.jsp) and [OpenHAB](http://docs.openhab.org/tutorials/beginner/). A good thing to go further is also to look at the extensions especially xep323 and xep325
+
+  * http://xmpp.org/
+  * http://xmpp.org/uses/internet-of-things.html
+  * http://www.xmpp-iot.org/tutorials/python-tutorial/
+  * http://xmpp.org/extensions/
+  * http://xmpp.org/extensions/xep-0323.html
+  * http://xmpp.org/extensions/xep-0324.html
+  * http://xmpp.org/extensions/xep-0325.html
+  * http://xmpp.org/extensions/xep-0347.html
+  * https://github.com/igniterealtime/Smack
+  * https://github.com/openhab
+
+## 1. Teaser task 1
+There is an implementation on [XEP 0323](http://xmpp.org/extensions/xep-0323.html), reading values from devices. The code is present on [github](https://github.com/igniterealtime/Smack/tree/master/smack-experimental/src/main/java/org/jivesoftware/smackx/iot/data)
+Create a runnable environment with the extension available. Create some examples and a tutorial on http://www.xmpp-iot.org/tutorials/ just like the python tutorial http://www.xmpp-iot.org/tutorials/python-tutorial/
+ 
+**Done by:**
+ 
+## 2. Teaser task 2
+There is an implementation on [XEP 0324](http://xmpp.org/extensions/xep-0324.html), for provisioning. The code is present on [github](https://github.com/igniterealtime/Smack/tree/master/smack-experimental/src/main/java/org/jivesoftware/smackx/iot/provisioning)
+Create a runnable environment with the extension available. Create some examples and a tutorial on http://www.xmpp-iot.org/tutorials/ just like the python tutorial http://www.xmpp-iot.org/tutorials/python-tutorial/
+ 
+**Done by:**
+ 
+## 3. Teaser task 3
+There is an implementation on [XEP 0325](http://xmpp.org/extensions/xep-0325.html), writing values to devices. The code is present on [github](https://github.com/igniterealtime/Smack/tree/master/smack-experimental/src/main/java/org/jivesoftware/smackx/iot/control)
+Create a runnable environment with the extension available. Create some examples and a tutorial on http://www.xmpp-iot.org/tutorials/ just like the python tutorial http://www.xmpp-iot.org/tutorials/python-tutorial/
+ 
+**Done by:**
+ 
+## 4. Teaser task 4
+There is an implementation on [XEP 0347](http://xmpp.org/extensions/xep-0347.html), writing values to devices. The code is present on [github](https://github.com/igniterealtime/Smack/tree/master/smack-experimental/src/main/java/org/jivesoftware/smackx/iot/discovery)
+Create a runnable environment with the extension available. Create some examples and a tutorial on http://www.xmpp-iot.org/tutorials/ just like the python tutorial http://www.xmpp-iot.org/tutorials/python-tutorial/
+ 
+**Done by:**
+ 
+## 5. Teaser task 5
+Create test suite (using Java Junit) to test the implementation of the XEP 0325 and XEP 323  as smack extensions (the work can be based on the tests already present in the library for the other extensions)  code avaliable in:
+https://github.com/igniterealtime/Smack/tree/master/smack-experimental/src/main/java/org/jivesoftware/smackx/iot
+
+**Done by:**
+
+# 2016 Project
+
 ***Interoperability  testtool for IoT*** is a project within XMPP that is part of the [google summer of code 2016](https://developers.google.com/open-source/gsoc/) This years XMPP-IoT project will focus on creating an interoperabilty testing environment for XMPP based distributed devices pretty much the same idea as on http://xmpp.net. You will add a JID to testtool and it will perform a number of Interoperabilty tests to se what capabilities the device has.
 
 getting started:
