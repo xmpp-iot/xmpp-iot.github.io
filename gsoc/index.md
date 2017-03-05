@@ -13,7 +13,7 @@ share: true
 ads: false
 ---
 
-***Adding XMPP-IoT to the openHAB smarthome project using Smack*** is  aproject within XMPP, propsed for [google summer of code 2017](https://developers.google.com/open-source/gsoc/). This project will focus on the integration of the support of XMPP-IOT extensions in [OpenHAB](http://www.openhab.org/), through the use of [SMACK libraries](https://www.igniterealtime.org/projects/smack/).
+***Adding XMPP-IoT to the openHAB smarthome project using Smack*** is a project within XMPP, propsed for [google summer of code 2017](https://developers.google.com/open-source/gsoc/). This project will focus on the integration of the support of XMPP-IOT extensions in [OpenHAB](http://www.openhab.org/), through the use of [SMACK libraries](https://www.igniterealtime.org/projects/smack/).
 
 # Teaser Tasks for 2017
 
