@@ -36,18 +36,18 @@ General discussions about participating in xmpp summer of code is done in the ch
 * Feel free to come with your own suggestions of a teaser task *encouraged*  
 
 ## Getting started
-Go through this site and and of course http://xmpp.org/ to get the idea of what Internet of Things is and how XMPP is a good fit for that. Then look at the Tutorials and the documentation of [SMACK](https://www.igniterealtime.org/projects/smack/documentation.jsp) and [OpenHAB](http://docs.openhab.org/tutorials/beginner/). A good thing to go further is also to look at the extensions especially [xep323](http://xmpp.org/extensions/xep-0323.html) and [xep325](http://xmpp.org/extensions/xep-0323.html)
+Go through this site and and of course http://xmpp.org/ to get the idea of what Internet of Things is and how XMPP is a good fit for that. Then look at the Tutorials and the documentation of [SMACK](https://www.igniterealtime.org/projects/smack/documentation.jsp) and [OpenHAB](http://docs.openhab.org/tutorials/beginner/). A good thing to go further is also to look at the extensions especially [xep323](http://xmpp.org/extensions/xep-0323.html) and [xep325](http://xmpp.org/extensions/xep-0323.html). 323 enables you to read values from a device and 325 enables you to write values, so in essence they are what you need to get started.
 
-  * [http://xmpp.org/]
-  * [http://xmpp.org/uses/internet-of-things.html]
-  * [http://www.xmpp-iot.org/tutorials/python-tutorial/]
-  * [http://xmpp.org/extensions/]
-  * [http://xmpp.org/extensions/xep-0323.html]
-  * [http://xmpp.org/extensions/xep-0324.html]
-  * [http://xmpp.org/extensions/xep-0325.html]
-  * [http://xmpp.org/extensions/xep-0347.html]
-  * [https://github.com/igniterealtime/Smack]
-  * [https://github.com/openhab]
+  * [http://xmpp.org/](http://xmpp.org/)
+  * [http://xmpp.org/uses/internet-of-things.html](http://xmpp.org/uses/internet-of-things.html)
+  * [http://www.xmpp-iot.org/tutorials/python-tutorial/](http://www.xmpp-iot.org/tutorials/python-tutorial/)
+  * [http://xmpp.org/extensions/](http://xmpp.org/extensions/)
+  * [http://xmpp.org/extensions/xep-0323.html](http://xmpp.org/extensions/xep-0323.html)
+  * [http://xmpp.org/extensions/xep-0324.html](http://xmpp.org/extensions/xep-0324.html)
+  * [http://xmpp.org/extensions/xep-0325.html](http://xmpp.org/extensions/xep-0325.html)
+  * [http://xmpp.org/extensions/xep-0347.html](http://xmpp.org/extensions/xep-0347.html)
+  * [https://github.com/igniterealtime/Smack](https://github.com/igniterealtime/Smack)
+  * [https://github.com/openhab](https://github.com/openhab)
 
 ## 1. Teaser task 1
 There is an implementation on [XEP 0323](http://xmpp.org/extensions/xep-0323.html), reading values from devices. The code is present on [github](https://github.com/igniterealtime/Smack/tree/master/smack-experimental/src/main/java/org/jivesoftware/smackx/iot/data)
