@@ -13,7 +13,8 @@ share: true
 ads: false
 ---
 
-***Adding XMPP-IoT to the openHAB smarthome project using Smack*** is a project within XMPP, propsed for [google summer of code 2017](https://developers.google.com/open-source/gsoc/). This project will focus on the integration of the support of XMPP-IOT extensions in [OpenHAB](http://www.openhab.org/), through the use of [SMACK libraries](https://www.igniterealtime.org/projects/smack/).
+***Adding XMPP-IoT to the openHAB smarthome project using Smack*** is a project within XMPP, propsed for [google summer of code 2017](https://developers.google.com/open-source/gsoc/). This project will focus on the integration of the support of XMPP-IOT extensions in the smart home plattform [OpenHAB](http://www.openhab.org/), through the use of [SMACK libraries](https://www.igniterealtime.org/projects/smack/).
+Adding XMPP to OpenHAB enables a secure interoperable transport of data between different OpenHAB instances, for example between offices or you could share your outside temperature with your neighbor. Furthermore it will open the possibilty of managing any OpenHAB server without the need of opening ports in your firewall. Looking forward to a nice summer coding.
 
 # Teaser Tasks for 2017
 
@@ -24,25 +25,29 @@ Mentor for the project is [Davide Conzon](http://www.ismb.it/davide.conzon) and 
   - twitter:@co_davide
   - skype:davide.conzon
 
+General discussions about participating in xmpp summer of code is done in the chat room and info is on the xmpp wiki
 
-* teaser tasks should be tested and ran on your own environment before sen in with pullrequest 
+  - xmpp:gsoc@muc.xmpp.org
+  - [Wiki xmpp summer of code](https://wiki.xmpp.org/web/Summer_of_Code_2017)
+
+* teaser tasks should be tested and ran on your own environment before sent in with pullrequest 
 * Change this page with a pullrequest when you have done a tesertask so others can focus on the other ones
 * Keep Davide Conzon in the loop when you choose a task
 * Feel free to come with your own suggestions of a teaser task *encouraged*  
 
 ## Getting started
-Go through this site and and of course http://xmpp.org/ to get the idea of what Internet of Things is and how XMPP is a good fit for that. Then look at the Tutorials and the documentation of [SMACK](https://www.igniterealtime.org/projects/smack/documentation.jsp) and [OpenHAB](http://docs.openhab.org/tutorials/beginner/). A good thing to go further is also to look at the extensions especially xep323 and xep325
+Go through this site and and of course http://xmpp.org/ to get the idea of what Internet of Things is and how XMPP is a good fit for that. Then look at the Tutorials and the documentation of [SMACK](https://www.igniterealtime.org/projects/smack/documentation.jsp) and [OpenHAB](http://docs.openhab.org/tutorials/beginner/). A good thing to go further is also to look at the extensions especially [xep323](http://xmpp.org/extensions/xep-0323.html) and [xep325](http://xmpp.org/extensions/xep-0323.html)
 
-  * (http://xmpp.org/)
-  * http://xmpp.org/uses/internet-of-things.html
-  * http://www.xmpp-iot.org/tutorials/python-tutorial/
-  * http://xmpp.org/extensions/
-  * http://xmpp.org/extensions/xep-0323.html
-  * http://xmpp.org/extensions/xep-0324.html
-  * http://xmpp.org/extensions/xep-0325.html
-  * http://xmpp.org/extensions/xep-0347.html
-  * https://github.com/igniterealtime/Smack
-  * https://github.com/openhab
+  * [http://xmpp.org/]
+  * [http://xmpp.org/uses/internet-of-things.html]
+  * [http://www.xmpp-iot.org/tutorials/python-tutorial/]
+  * [http://xmpp.org/extensions/]
+  * [http://xmpp.org/extensions/xep-0323.html]
+  * [http://xmpp.org/extensions/xep-0324.html]
+  * [http://xmpp.org/extensions/xep-0325.html]
+  * [http://xmpp.org/extensions/xep-0347.html]
+  * [https://github.com/igniterealtime/Smack]
+  * [https://github.com/openhab]
 
 ## 1. Teaser task 1
 There is an implementation on [XEP 0323](http://xmpp.org/extensions/xep-0323.html), reading values from devices. The code is present on [github](https://github.com/igniterealtime/Smack/tree/master/smack-experimental/src/main/java/org/jivesoftware/smackx/iot/data)
