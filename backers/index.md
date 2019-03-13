@@ -37,7 +37,7 @@ Logo| Name | Description
 ![logo](http://www.sust.se/wp-content/uploads/2014/12/header-logo_en.png) | [Sustainable Innovation](http://sust.se) |  [Sustainable innovation created a large State funded Swedish project using an XMPP IoT infrastructure to bridge the business models to create Intelligent Energy Services regardless of the smarthome silos installed.](http://iea.sust.se/category/iea_project/) 
 ![logo](http://www.sensei-iot.org/images/Sensei-IOT-XMPP.jpg) | [ISO/IEC/IEEE P21451-1-4 XMPP INFC WG](http://www.sensei-iot.org) | The IEEE intitaive tying the XMPP-IoT initiative into the IEEE standards structure
 ![logo](http://www.ktc.se/wp-content/themes/2012-ktc/img/logo.png) | [KTC AB](http://ktc.se/en/) | Swedish company. We are using the XMPP to create an open infrastructure for builing control systems.
-![logo](http://www.ismb.it/sites/all/themes/acquia_marina/ismb.jpg) | [ISMB](http://www.ismb.it/) | Italian private research center in the ICT field, which gained valuable experience in the XMPP protocol usage in the IoT scenario, deploying it in several regional and European funded project.
+![logo](https://linksfoundation.com/wp-content/uploads/2019/01/LINKS_logo.png) | [LINKS](https://linksfoundation.com/en/) | Italian private research center in the ICT field, which gained valuable experience in the XMPP protocol usage in the IoT scenario, deploying it in several regional and European funded project.
 
 
 ## Individuals
